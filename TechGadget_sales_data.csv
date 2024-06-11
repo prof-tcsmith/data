@@ -1,0 +1,10 @@
+Date,Region,Product,Units Sold,Revenue
+2024-01-01,North America,EcoPhone,150,75000
+2024-01-01,Europe,EcoPhone,120,60000
+2024-01-01,Asia,EcoPhone,200,100000
+2024-01-02,North America,EcoPhone,160,80000
+2024-01-02,Europe,EcoPhone,130,65000
+2024-01-02,Asia,EcoPhone,210,105000
+2024-01-03,North America,EcoPhone,170,85000
+2024-01-03,Europe,EcoPhone,140,70000
+2024-01-03,Asia,EcoPhone,220,110000
