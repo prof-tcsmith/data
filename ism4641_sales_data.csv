@@ -1,0 +1,9 @@
+Date,Store,Item,Quantity,Price
+2024-01-01,Store 1,Widgets,20,9.99
+2024-01-01,Store 2,Gadgets,15,19.99
+2024-01-02,Store 1,Widgets,30,9.99
+2024-01-02,Store 2,Gizmos,25,14.99
+2024-01-03,Store 1,Gadgets,10,19.99
+2024-01-03,Store 3,Widgets,50,9.99
+2024-01-04,Store 2,Gizmos,10,14.99
+2024-01-04,Store 3,Gadgets,5,19.99
