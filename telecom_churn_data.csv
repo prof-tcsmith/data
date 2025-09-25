@@ -1,0 +1,1001 @@
+Customer_ID,Tenure_Months,Monthly_Charges,Total_Charges,Data_GB_Per_Month,Support_Tickets_Last_Month,International_Plan,Voicemail_Plan,Paperless_Billing,Service_Tier,Customer_Priority,Payment_Method,Contract_Type,Region,Churn
+CUST00001,18,47.09,824.94,10.8,2.0,No,No,Enrolled,Premium,Medium,Bank Transfer,One Year,Southeast,No
+CUST00002,24,41.36,855.86,2.3,0.0,No,Yes,Enrolled,,Low,Credit Card,Two Year,Southwest,No
+CUST00003,4,68.47,298.99,0.9,4.0,No,No,Enrolled,Basic,,Bank Transfer,One Year,Northeast,Yes
+CUST00004,1,50.92,0.0,12.0,1.0,No,No,Not Enrolled,Basic,Low,Electronic Check,Two Year,Midwest,No
+CUST00005,5,72.56,249.32,46.5,0.0,No,Yes,Enrolled,Premium,Low,Mailed Check,Month-to-Month,Midwest,Yes
+CUST00006,2,86.59,,,,No,,,,Medium,,Month-to-Month,West,Yes
+CUST00007,26,101.9,2518.57,,,No,No,Enrolled,,Medium,,One Year,,No
+CUST00008,23,62.08,1405.5,7.4,1.0,Yes,No,Enrolled,Standard,Low,Bank Transfer,Two Year,West,No
+CUST00009,13,56.85,868.0,1.9,0.0,No,,Enrolled,,Low,Credit Card,Two Year,Midwest,No
+CUST00010,12,79.32,1053.92,0.9,2.0,No,No,Not Enrolled,Enterprise,Low,Bank Transfer,One Year,West,No
+CUST00011,1,48.4,108.45,3.1,2.0,No,Yes,Not Enrolled,,High,Credit Card,One Year,West,No
+CUST00012,28,72.62,2010.66,10.3,2.0,No,No,Not Enrolled,Premium,Low,Bank Transfer,Month-to-Month,Midwest,No
+CUST00013,18,67.44,1283.06,,,No,No,Enrolled,Standard,,Credit Card,Month-to-Month,Northeast,Yes
+CUST00014,65,86.85,5337.47,3.0,2.0,Yes,Yes,Not Enrolled,Premium,,Bank Transfer,Two Year,Southwest,No
+CUST00015,22,93.52,2251.25,3.6,0.0,No,Yes,Enrolled,Standard,Low,Electronic Check,One Year,Southwest,Yes
+CUST00016,19,52.29,970.4,13.9,0.0,Yes,No,Not Enrolled,Standard,Low,Mailed Check,Two Year,West,No
+CUST00017,12,57.56,772.8,39.5,2.0,No,Yes,Enrolled,Basic,,Credit Card,Month-to-Month,West,No
+CUST00018,5,63.98,,,,Yes,No,,,Medium,,One Year,,No
+CUST00019,22,119.54,2702.66,1.6,0.0,No,No,Not Enrolled,Premium,,Electronic Check,Month-to-Month,Southwest,Yes
+CUST00020,27,53.18,1534.02,,1.0,No,Yes,Not Enrolled,,,Mailed Check,One Year,Midwest,Yes
+CUST00021,6,91.75,427.93,16.4,3.0,No,Yes,Enrolled,Standard,,Bank Transfer,Month-to-Month,Southeast,No
+CUST00022,2,82.66,190.22,4.4,2.0,No,Yes,Enrolled,Standard,Low,Credit Card,One Year,Southeast,Yes
+CUST00023,65,106.32,6421.92,2.1,0.0,Yes,No,Not Enrolled,Premium,,Mailed Check,Month-to-Month,Midwest,No
+CUST00024,6,109.75,516.37,7.1,0.0,No,No,Enrolled,Premium,,Credit Card,Month-to-Month,West,No
+CUST00025,7,76.87,605.27,8.0,1.0,No,No,Enrolled,Basic,Low,Electronic Check,One Year,Southwest,No
+CUST00026,29,67.86,1863.51,33.3,2.0,No,No,Enrolled,Premium,Low,Credit Card,Month-to-Month,Northeast,Yes
+CUST00027,32,113.65,3706.83,50.0,2.0,No,No,Not Enrolled,Enterprise,Low,Bank Transfer,One Year,Southeast,No
+CUST00028,16,43.13,790.97,11.0,3.0,Yes,Yes,Not Enrolled,Basic,Low,Credit Card,Month-to-Month,West,Yes
+CUST00029,10,96.26,972.3,7.7,1.0,No,No,Enrolled,Standard,Low,Electronic Check,Month-to-Month,Northeast,No
+CUST00030,10,66.05,515.9,1.4,2.0,Yes,No,Enrolled,Basic,,Credit Card,Month-to-Month,Midwest,Yes
+CUST00031,7,92.88,626.99,4.7,2.0,No,No,Not Enrolled,Premium,,Bank Transfer,Month-to-Month,Southwest,Yes
+CUST00032,27,64.45,1531.53,5.7,0.0,Yes,No,Not Enrolled,Standard,Medium,Credit Card,Two Year,Southeast,Yes
+CUST00033,5,50.96,230.83,4.9,1.0,No,Yes,Not Enrolled,Premium,Low,Mailed Check,Two Year,Southeast,Yes
+CUST00034,12,123.14,1284.22,15.8,0.0,No,No,Not Enrolled,Premium,Low,Electronic Check,Month-to-Month,West,No
+CUST00035,43,52.17,2105.54,1.3,1.0,No,No,Not Enrolled,Enterprise,High,Bank Transfer,Two Year,Southeast,No
+CUST00036,7,116.86,812.19,18.9,0.0,No,No,Enrolled,Standard,Low,Bank Transfer,Month-to-Month,West,No
+CUST00037,31,66.68,1974.26,9.7,0.0,No,Yes,Enrolled,Basic,Low,Electronic Check,One Year,Southeast,Yes
+CUST00038,28,91.04,2584.48,4.7,1.0,No,Yes,Not Enrolled,,,Electronic Check,Two Year,Midwest,No
+CUST00039,11,96.02,,,6.0,No,No,,Premium,,,Month-to-Month,,Yes
+CUST00040,5,66.71,422.78,8.1,0.0,No,No,Enrolled,Standard,Low,Bank Transfer,Month-to-Month,West,Yes
+CUST00041,11,81.16,843.03,12.3,3.0,No,Yes,Enrolled,Premium,,Credit Card,Two Year,Southwest,No
+CUST00042,1,51.4,,10.8,1.0,No,No,Enrolled,Basic,,Electronic Check,One Year,Midwest,No
+CUST00043,18,93.25,1433.98,8.7,1.0,No,No,Enrolled,Standard,Low,Electronic Check,Two Year,Southeast,No
+CUST00044,36,75.83,2862.47,2.7,1.0,Yes,No,Enrolled,Standard,Low,Mailed Check,One Year,Northeast,No
+CUST00045,45,48.64,2333.65,5.4,2.0,No,Yes,Enrolled,Standard,Medium,Electronic Check,Month-to-Month,Northeast,No
+CUST00046,4,65.06,223.24,7.0,1.0,No,No,Enrolled,Premium,Low,Credit Card,Two Year,Midwest,No
+CUST00047,14,98.51,1204.27,4.9,1.0,No,Yes,Not Enrolled,Premium,Low,Electronic Check,Month-to-Month,Northeast,No
+CUST00048,45,20.0,808.78,3.5,0.0,No,No,Not Enrolled,Basic,,Credit Card,One Year,West,No
+CUST00049,6,93.22,524.9,,0.0,No,Yes,Enrolled,Standard,Medium,Mailed Check,Month-to-Month,Southeast,Yes
+CUST00050,40,38.08,1701.12,5.1,1.0,No,Yes,Enrolled,,Medium,Credit Card,Month-to-Month,Southwest,No
+CUST00051,1,80.02,0.0,20.7,0.0,Yes,No,Enrolled,Standard,Low,Credit Card,Month-to-Month,Midwest,Yes
+CUST00052,16,62.19,1073.39,,2.0,No,No,Enrolled,Standard,Medium,Bank Transfer,One Year,Southwest,No
+CUST00053,15,88.19,1370.42,1.6,1.0,No,Yes,Enrolled,Premium,Low,Credit Card,Month-to-Month,Northeast,No
+CUST00054,51,66.47,3545.36,3.4,1.0,No,No,Not Enrolled,Standard,Medium,Electronic Check,One Year,Southwest,Yes
+CUST00055,6,81.18,,5.3,,No,Yes,Not Enrolled,,,,Two Year,,Yes
+CUST00056,1,73.1,110.17,50.0,2.0,Yes,Yes,Enrolled,Premium,Medium,Credit Card,Month-to-Month,Northeast,No
+CUST00057,46,35.59,,10.9,,No,,,,High,Mailed Check,Month-to-Month,,No
+CUST00058,41,54.14,2386.41,10.4,,No,No,Enrolled,,,Mailed Check,Month-to-Month,Midwest,No
+CUST00059,4,82.9,416.07,0.2,5.0,No,No,Enrolled,Basic,Low,Bank Transfer,Month-to-Month,West,Yes
+CUST00060,72,42.64,3068.99,2.0,0.0,Yes,No,Not Enrolled,Premium,,Bank Transfer,One Year,Midwest,No
+CUST00061,9,30.48,254.7,,4.0,No,Yes,Not Enrolled,Basic,Low,Credit Card,Month-to-Month,Midwest,Yes
+CUST00062,8,104.9,807.89,13.7,3.0,No,No,Not Enrolled,Enterprise,High,Electronic Check,Two Year,Southeast,No
+CUST00063,38,87.9,3117.46,,3.0,No,No,Not Enrolled,Premium,VIP,Mailed Check,Month-to-Month,Northeast,Yes
+CUST00064,42,75.19,2940.86,5.8,,No,No,Enrolled,Premium,Medium,Mailed Check,Month-to-Month,Southwest,No
+CUST00065,23,93.32,2289.01,4.8,0.0,Yes,,Not Enrolled,Premium,Low,Bank Transfer,Month-to-Month,West,Yes
+CUST00066,1,74.08,,25.9,,No,No,Enrolled,Standard,Low,Mailed Check,Month-to-Month,Northeast,No
+CUST00067,16,57.29,956.23,6.4,5.0,No,No,Enrolled,Standard,Medium,Credit Card,Month-to-Month,West,Yes
+CUST00068,24,37.83,818.99,6.8,1.0,Yes,No,Enrolled,Basic,Medium,Mailed Check,One Year,Southwest,No
+CUST00069,35,58.44,1875.75,6.0,1.0,No,No,Enrolled,Basic,Medium,Credit Card,Two Year,Southeast,No
+CUST00070,7,60.7,451.82,20.4,1.0,Yes,No,Enrolled,Enterprise,Low,Credit Card,Month-to-Month,West,Yes
+CUST00071,14,61.4,937.57,1.0,0.0,Yes,No,Enrolled,Basic,,Electronic Check,Two Year,Southwest,No
+CUST00072,38,94.05,3690.51,50.0,0.0,No,No,Not Enrolled,Standard,,Credit Card,Month-to-Month,West,No
+CUST00073,7,73.68,,,0.0,No,,,,,,Month-to-Month,,No
+CUST00074,23,73.44,1827.99,50.0,2.0,No,Yes,Enrolled,Premium,,Bank Transfer,One Year,Midwest,No
+CUST00075,11,82.14,832.48,26.8,3.0,Yes,Yes,Enrolled,Premium,,Mailed Check,Month-to-Month,Midwest,No
+CUST00076,23,86.04,2145.03,4.1,1.0,Yes,No,Not Enrolled,Premium,,Credit Card,One Year,Midwest,No
+CUST00077,5,91.16,439.9,3.6,0.0,No,Yes,Not Enrolled,Standard,Low,Credit Card,One Year,Northeast,Yes
+CUST00078,16,74.09,1136.78,11.7,1.0,No,No,Enrolled,Premium,Low,Credit Card,One Year,Northeast,No
+CUST00079,38,77.7,3064.79,4.7,1.0,No,No,Not Enrolled,Premium,Low,Credit Card,Two Year,Midwest,No
+CUST00080,27,101.74,2567.94,37.6,,No,,,,,Credit Card,Month-to-Month,,No
+CUST00081,14,68.06,1030.73,36.3,0.0,Yes,Yes,Enrolled,Standard,Low,Electronic Check,One Year,Northeast,No
+CUST00082,10,86.15,892.48,2.3,2.0,No,Yes,Enrolled,Premium,Low,Mailed Check,Month-to-Month,Southwest,Yes
+CUST00083,31,57.27,1902.54,1.3,2.0,No,No,Not Enrolled,Standard,Medium,Bank Transfer,One Year,Northeast,No
+CUST00084,4,100.95,410.78,6.9,5.0,Yes,Yes,Not Enrolled,,,Credit Card,Month-to-Month,Southeast,Yes
+CUST00085,18,54.8,1021.04,2.5,1.0,No,No,Not Enrolled,Standard,Low,Mailed Check,One Year,West,No
+CUST00086,11,114.61,1331.27,15.4,2.0,No,No,Enrolled,Premium,High,Bank Transfer,One Year,Northeast,No
+CUST00087,1,54.43,85.46,1.9,1.0,No,Yes,Enrolled,Enterprise,Low,Electronic Check,Month-to-Month,West,No
+CUST00088,7,44.71,363.33,23.6,0.0,No,No,Enrolled,Standard,Low,Credit Card,Month-to-Month,Midwest,No
+CUST00089,26,103.94,2771.23,9.2,5.0,No,No,Not Enrolled,Enterprise,,Bank Transfer,Month-to-Month,West,Yes
+CUST00090,7,78.18,575.09,0.5,0.0,No,No,Not Enrolled,Enterprise,VIP,Credit Card,Month-to-Month,Midwest,No
+CUST00091,10,101.51,1012.36,2.4,2.0,Yes,No,Enrolled,Premium,Low,Bank Transfer,Month-to-Month,Midwest,No
+CUST00092,20,72.57,1518.82,5.2,1.0,No,Yes,Enrolled,Premium,Low,Bank Transfer,Month-to-Month,Southwest,No
+CUST00093,36,32.57,1089.92,33.4,5.0,No,No,Not Enrolled,Standard,Low,Credit Card,Month-to-Month,Southeast,Yes
+CUST00094,8,100.01,754.44,50.0,4.0,No,No,Enrolled,Premium,Low,Electronic Check,Month-to-Month,Midwest,No
+CUST00095,3,105.62,335.99,33.0,2.0,No,No,Enrolled,Premium,Medium,Mailed Check,One Year,Northeast,No
+CUST00096,25,84.01,1988.26,12.6,1.0,No,No,Enrolled,Premium,Low,Bank Transfer,One Year,Northeast,No
+CUST00097,41,79.68,3099.85,6.5,0.0,No,No,Enrolled,Standard,Medium,Electronic Check,Month-to-Month,Southeast,No
+CUST00098,18,51.95,838.48,15.4,2.0,Yes,Yes,Not Enrolled,Standard,Low,Electronic Check,One Year,Midwest,Yes
+CUST00099,24,42.76,1144.21,8.0,1.0,No,No,Enrolled,Standard,,Mailed Check,One Year,Southeast,Yes
+CUST00100,4,47.7,102.91,15.8,1.0,No,No,Enrolled,Standard,Low,Electronic Check,One Year,West,No
+CUST00101,15,37.7,535.34,2.0,1.0,No,,Not Enrolled,Standard,Low,Bank Transfer,One Year,Northeast,No
+CUST00102,41,90.82,,,,No,No,,,Medium,,One Year,,No
+CUST00103,37,75.82,3043.23,4.1,2.0,Yes,Yes,Enrolled,Premium,,Electronic Check,One Year,Southeast,No
+CUST00104,72,82.5,,,,No,,,,,Mailed Check,Two Year,,No
+CUST00105,30,61.65,1954.39,16.9,1.0,Yes,No,Enrolled,Premium,Medium,Credit Card,One Year,Southeast,No
+CUST00106,4,70.94,227.51,1.5,1.0,No,,Enrolled,Premium,Low,Mailed Check,Month-to-Month,Southwest,No
+CUST00107,19,57.36,1045.0,2.2,0.0,No,No,Not Enrolled,Premium,,Credit Card,One Year,Midwest,No
+CUST00108,13,117.12,1641.03,1.8,2.0,Yes,No,Enrolled,Standard,Low,Electronic Check,Month-to-Month,Southeast,No
+CUST00109,19,62.97,1204.57,0.8,3.0,No,No,Not Enrolled,Basic,Low,Bank Transfer,Month-to-Month,Southeast,No
+CUST00110,3,49.76,67.87,,2.0,No,No,Enrolled,Standard,Medium,Bank Transfer,Month-to-Month,Northeast,Yes
+CUST00111,11,92.78,922.55,23.5,0.0,Yes,Yes,Not Enrolled,Premium,Low,Bank Transfer,One Year,Southeast,Yes
+CUST00112,30,57.91,,,,No,Yes,,,Low,,Month-to-Month,,No
+CUST00113,56,44.65,2590.48,6.8,3.0,No,,Enrolled,Standard,Low,Bank Transfer,Month-to-Month,Southwest,Yes
+CUST00114,2,88.22,188.8,18.5,,Yes,No,Enrolled,Standard,,Bank Transfer,One Year,Southeast,No
+CUST00115,56,49.23,2710.37,15.8,2.0,No,Yes,Enrolled,Premium,,Credit Card,One Year,Midwest,No
+CUST00116,32,86.82,2968.99,7.6,2.0,Yes,No,Not Enrolled,Premium,VIP,Bank Transfer,Month-to-Month,Midwest,Yes
+CUST00117,8,80.75,542.81,10.2,0.0,No,No,Not Enrolled,Premium,,Credit Card,Month-to-Month,Northeast,No
+CUST00118,7,81.45,478.81,30.0,1.0,No,Yes,Enrolled,Standard,Low,Electronic Check,Two Year,Midwest,No
+CUST00119,7,113.04,,,2.0,No,Yes,,Premium,Low,,Month-to-Month,,No
+CUST00120,4,77.82,345.22,4.2,2.0,No,No,Enrolled,Enterprise,Low,Bank Transfer,Two Year,West,No
+CUST00121,43,93.69,3667.09,30.0,,No,No,Enrolled,Premium,,Bank Transfer,Month-to-Month,Southwest,No
+CUST00122,34,70.35,,9.8,,Yes,,,,Medium,,Two Year,,No
+CUST00123,27,102.38,2627.98,21.4,0.0,Yes,No,Enrolled,Enterprise,Low,Bank Transfer,Two Year,Northeast,Yes
+CUST00124,38,74.59,2969.02,7.3,1.0,No,Yes,Not Enrolled,Standard,,Credit Card,One Year,Southeast,No
+CUST00125,19,43.27,814.1,5.7,0.0,Yes,Yes,Enrolled,Standard,Low,Credit Card,Month-to-Month,West,No
+CUST00126,8,31.81,227.16,22.5,0.0,No,No,Enrolled,Basic,Medium,Bank Transfer,Month-to-Month,Northeast,Yes
+CUST00127,5,67.95,358.68,4.7,2.0,Yes,Yes,Enrolled,Premium,,Electronic Check,One Year,West,Yes
+CUST00128,58,72.02,4134.06,13.2,1.0,Yes,No,Not Enrolled,Standard,,Credit Card,Two Year,Midwest,No
+CUST00129,7,105.21,761.31,27.8,5.0,No,No,Not Enrolled,Enterprise,,Credit Card,Month-to-Month,West,No
+CUST00130,11,58.11,627.73,21.5,2.0,No,No,Enrolled,Premium,,Electronic Check,Two Year,Northeast,No
+CUST00131,8,75.32,625.4,2.6,2.0,No,No,Enrolled,Standard,Low,Electronic Check,Month-to-Month,West,Yes
+CUST00132,60,53.09,3481.41,14.2,4.0,Yes,Yes,Not Enrolled,Basic,Medium,Credit Card,One Year,Midwest,No
+CUST00133,5,123.13,670.86,4.2,2.0,Yes,No,Not Enrolled,Standard,Low,Electronic Check,Month-to-Month,West,Yes
+CUST00134,4,61.4,261.0,10.8,0.0,Yes,,Enrolled,Basic,,Mailed Check,Month-to-Month,Southeast,No
+CUST00135,14,67.17,994.15,10.3,1.0,No,No,Not Enrolled,Standard,Medium,Bank Transfer,Month-to-Month,Midwest,No
+CUST00136,47,40.57,2058.51,6.7,2.0,No,Yes,Enrolled,Standard,Medium,Credit Card,Month-to-Month,Midwest,No
+CUST00137,43,103.81,4312.33,5.5,2.0,No,No,Not Enrolled,Enterprise,,,Month-to-Month,Midwest,No
+CUST00138,4,41.13,167.25,,,No,,Not Enrolled,,,,Month-to-Month,West,No
+CUST00139,15,70.26,1050.87,14.6,0.0,No,Yes,Enrolled,Basic,,Bank Transfer,Two Year,West,No
+CUST00140,4,74.43,406.75,14.0,1.0,No,No,Not Enrolled,Standard,,Credit Card,Month-to-Month,Midwest,No
+CUST00141,46,65.06,3039.75,3.9,0.0,No,Yes,Enrolled,Basic,Low,Credit Card,Month-to-Month,West,Yes
+CUST00142,10,72.2,788.61,1.1,1.0,No,No,Not Enrolled,Premium,Low,Bank Transfer,One Year,Midwest,No
+CUST00143,24,96.47,2042.47,4.0,1.0,No,Yes,Enrolled,Standard,Low,Bank Transfer,One Year,Northeast,No
+CUST00144,14,104.99,1313.67,10.6,1.0,No,No,Enrolled,Enterprise,,Bank Transfer,Month-to-Month,Northeast,No
+CUST00145,20,96.52,1987.23,3.0,5.0,No,Yes,Not Enrolled,Premium,Low,Electronic Check,Month-to-Month,Northeast,No
+CUST00146,54,87.79,4488.92,16.7,,No,,,,,,One Year,,No
+CUST00147,5,105.6,,,,No,,,,,Electronic Check,Month-to-Month,,Yes
+CUST00148,8,72.29,477.27,3.4,2.0,No,Yes,Enrolled,Standard,High,Bank Transfer,One Year,Midwest,No
+CUST00149,22,59.6,1279.78,4.4,3.0,Yes,No,Not Enrolled,Basic,Medium,Bank Transfer,One Year,Midwest,No
+CUST00150,11,99.98,1101.78,5.1,2.0,No,No,Enrolled,Premium,Medium,Electronic Check,Month-to-Month,West,Yes
+CUST00151,6,40.94,210.63,7.0,1.0,No,No,Enrolled,Standard,High,Bank Transfer,Two Year,Northeast,No
+CUST00152,42,31.12,1274.1,1.5,1.0,Yes,No,Enrolled,Standard,VIP,Bank Transfer,Two Year,West,No
+CUST00153,10,84.7,850.46,3.0,2.0,Yes,No,Not Enrolled,Enterprise,,Electronic Check,Month-to-Month,West,Yes
+CUST00154,16,115.1,1833.64,26.9,,No,No,Enrolled,Premium,,Electronic Check,One Year,Northeast,No
+CUST00155,4,52.89,161.05,5.4,2.0,No,No,Enrolled,Premium,Low,Bank Transfer,One Year,West,Yes
+CUST00156,1,71.05,115.86,32.6,2.0,No,Yes,Enrolled,Premium,,Electronic Check,One Year,Midwest,No
+CUST00157,11,38.55,441.46,3.5,1.0,No,No,Not Enrolled,Premium,Low,Mailed Check,Month-to-Month,West,No
+CUST00158,2,70.69,66.91,,,No,,Not Enrolled,,Medium,Credit Card,Month-to-Month,,Yes
+CUST00159,15,48.21,883.39,9.9,0.0,Yes,No,Not Enrolled,Premium,,Mailed Check,Month-to-Month,Southwest,No
+CUST00160,12,88.41,1063.89,17.8,3.0,No,No,Not Enrolled,Premium,,Bank Transfer,One Year,Southwest,No
+CUST00161,11,60.85,581.58,2.2,2.0,No,Yes,Not Enrolled,Standard,Low,Electronic Check,Month-to-Month,Southeast,No
+CUST00162,28,55.74,1526.13,15.5,3.0,No,Yes,Enrolled,Basic,,Credit Card,Two Year,Southwest,No
+CUST00163,1,118.82,,,0.0,No,,Not Enrolled,Premium,,,One Year,,No
+CUST00164,19,57.16,1002.8,0.8,2.0,Yes,Yes,Enrolled,,Low,Electronic Check,Month-to-Month,Southeast,Yes
+CUST00165,21,43.34,832.92,6.9,2.0,No,Yes,Not Enrolled,Premium,Low,Bank Transfer,Month-to-Month,West,No
+CUST00166,26,64.74,1604.99,15.9,0.0,No,Yes,Not Enrolled,Basic,,Credit Card,Month-to-Month,Northeast,No
+CUST00167,17,91.76,1491.11,8.4,,No,Yes,Not Enrolled,Premium,Low,Mailed Check,One Year,West,No
+CUST00168,72,126.15,8280.69,10.4,0.0,No,Yes,Enrolled,Enterprise,Low,Bank Transfer,Month-to-Month,Northeast,No
+CUST00169,19,78.61,1396.08,5.0,,No,Yes,Not Enrolled,Premium,Low,Electronic Check,Month-to-Month,Southwest,No
+CUST00170,14,39.24,532.56,2.2,2.0,Yes,Yes,Not Enrolled,Basic,Low,Bank Transfer,Two Year,West,No
+CUST00171,9,59.39,517.81,11.7,0.0,Yes,No,Enrolled,Basic,,Credit Card,Two Year,Southeast,Yes
+CUST00172,3,62.78,225.12,10.4,0.0,No,No,Enrolled,Basic,Low,Bank Transfer,One Year,Southeast,Yes
+CUST00173,29,116.54,3015.57,8.6,2.0,No,No,Enrolled,Premium,,Electronic Check,Month-to-Month,Midwest,No
+CUST00174,40,83.54,3601.5,8.9,0.0,No,No,Enrolled,Basic,,Credit Card,One Year,Southeast,No
+CUST00175,13,82.2,1028.22,17.0,1.0,Yes,No,Not Enrolled,Premium,Medium,Mailed Check,Two Year,Midwest,No
+CUST00176,57,39.46,2257.71,4.0,1.0,Yes,Yes,Not Enrolled,Standard,,Electronic Check,One Year,Southwest,No
+CUST00177,24,104.74,,,2.0,No,,Enrolled,Standard,High,,Two Year,,No
+CUST00178,26,63.07,1826.44,5.6,0.0,Yes,No,Not Enrolled,Standard,,Bank Transfer,Month-to-Month,Northeast,Yes
+CUST00179,19,88.84,1570.66,9.9,1.0,No,No,Enrolled,Premium,,Mailed Check,Month-to-Month,Midwest,No
+CUST00180,42,76.11,3189.06,20.1,3.0,No,No,Enrolled,Standard,,Electronic Check,Month-to-Month,Southeast,No
+CUST00181,43,47.53,,9.8,1.0,Yes,,,,Medium,,Two Year,,No
+CUST00182,49,45.74,,,,No,,,,,Bank Transfer,Month-to-Month,,No
+CUST00183,1,67.95,,7.1,3.0,No,Yes,Not Enrolled,Basic,Medium,Electronic Check,Month-to-Month,West,Yes
+CUST00184,32,84.11,2631.58,16.6,1.0,No,Yes,Not Enrolled,Standard,Medium,Credit Card,Two Year,Midwest,No
+CUST00185,72,104.79,8239.38,4.9,2.0,Yes,Yes,Enrolled,Basic,Low,Mailed Check,Month-to-Month,West,No
+CUST00186,3,73.89,175.04,7.1,2.0,No,No,Enrolled,Standard,,Credit Card,Month-to-Month,Northeast,No
+CUST00187,3,59.18,240.2,7.7,3.0,No,No,Enrolled,Premium,,Electronic Check,Month-to-Month,Southwest,Yes
+CUST00188,1,53.14,80.26,2.4,0.0,No,No,Enrolled,Standard,Low,Credit Card,Month-to-Month,West,No
+CUST00189,8,76.38,654.68,1.6,3.0,No,No,Not Enrolled,Enterprise,,Electronic Check,Two Year,Midwest,No
+CUST00190,32,69.89,2387.9,50.0,1.0,No,No,Not Enrolled,Enterprise,,Electronic Check,Month-to-Month,Southwest,No
+CUST00191,17,72.67,1290.58,3.7,0.0,No,No,Enrolled,Premium,Low,Bank Transfer,Month-to-Month,Northeast,Yes
+CUST00192,27,84.78,2500.0,1.8,1.0,No,Yes,Enrolled,Premium,,Bank Transfer,Month-to-Month,West,Yes
+CUST00193,6,91.65,520.21,8.2,3.0,No,No,Enrolled,Enterprise,Medium,Credit Card,Month-to-Month,Southeast,No
+CUST00194,19,82.57,1473.56,2.1,1.0,No,No,Enrolled,Standard,,Credit Card,Two Year,Northeast,No
+CUST00195,56,98.05,5136.63,9.4,5.0,No,Yes,Not Enrolled,Premium,,Credit Card,Two Year,Southeast,Yes
+CUST00196,27,101.19,2776.83,6.2,0.0,No,Yes,Enrolled,Premium,,Bank Transfer,One Year,Southeast,No
+CUST00197,9,48.88,368.6,26.8,0.0,No,No,Not Enrolled,Standard,Medium,Bank Transfer,One Year,Northeast,Yes
+CUST00198,9,55.25,503.32,50.0,2.0,No,No,Enrolled,Standard,Low,Bank Transfer,Month-to-Month,Northeast,No
+CUST00199,3,59.15,198.36,3.5,2.0,Yes,Yes,Not Enrolled,Basic,,Bank Transfer,One Year,West,Yes
+CUST00200,37,49.9,2013.05,4.0,2.0,No,No,Not Enrolled,Basic,,Bank Transfer,Month-to-Month,Southeast,No
+CUST00201,11,83.95,953.93,3.7,1.0,No,No,Enrolled,Enterprise,Medium,Credit Card,One Year,Southwest,No
+CUST00202,30,89.42,2896.2,6.1,1.0,Yes,No,Enrolled,Premium,,Electronic Check,Month-to-Month,Northeast,No
+CUST00203,4,60.07,166.52,19.7,3.0,No,Yes,Enrolled,Standard,,Credit Card,Month-to-Month,Midwest,Yes
+CUST00204,1,85.5,112.33,6.0,1.0,No,No,Not Enrolled,Standard,Low,Bank Transfer,Two Year,Northeast,No
+CUST00205,42,105.6,,,0.0,Yes,,,,Low,Electronic Check,Two Year,,No
+CUST00206,42,51.59,2284.03,5.9,4.0,Yes,Yes,Not Enrolled,Basic,,Electronic Check,One Year,Southeast,Yes
+CUST00207,17,52.37,932.22,8.6,1.0,Yes,Yes,Enrolled,Basic,,Bank Transfer,One Year,Southwest,No
+CUST00208,2,61.99,170.6,4.6,2.0,No,No,Enrolled,Standard,Medium,Credit Card,Month-to-Month,Southwest,Yes
+CUST00209,14,54.83,648.08,50.0,2.0,No,No,Enrolled,Standard,Medium,Credit Card,Month-to-Month,Southwest,No
+CUST00210,13,53.12,744.13,,,Yes,,,,Low,Electronic Check,One Year,,No
+CUST00211,13,54.63,,,1.0,No,,,,Low,,Two Year,,No
+CUST00212,28,108.63,3236.87,4.7,2.0,No,Yes,Not Enrolled,Premium,Low,Bank Transfer,Month-to-Month,Southeast,No
+CUST00213,51,83.42,4423.58,23.8,4.0,No,No,Enrolled,Enterprise,,Credit Card,One Year,Northeast,No
+CUST00214,8,96.47,706.7,0.7,1.0,No,No,Enrolled,Standard,Low,Electronic Check,Month-to-Month,West,Yes
+CUST00215,19,85.07,1462.81,10.4,2.0,No,Yes,Enrolled,Premium,Low,Mailed Check,Month-to-Month,West,No
+CUST00216,72,49.53,3295.41,50.0,4.0,No,Yes,Enrolled,,High,Credit Card,One Year,West,Yes
+CUST00217,31,39.78,1191.98,3.8,0.0,No,No,Not Enrolled,Basic,Low,Bank Transfer,Month-to-Month,Southeast,No
+CUST00218,40,29.25,1240.15,14.3,1.0,Yes,No,Enrolled,Basic,Low,Credit Card,Month-to-Month,Southwest,No
+CUST00219,59,20.0,1194.42,1.2,1.0,No,No,Enrolled,Standard,,Bank Transfer,Month-to-Month,Southeast,No
+CUST00220,11,28.16,363.82,2.5,0.0,No,No,Enrolled,Standard,Medium,Credit Card,Month-to-Month,Midwest,Yes
+CUST00221,2,76.67,70.45,14.3,2.0,No,No,Enrolled,Standard,Low,Electronic Check,Two Year,Southeast,No
+CUST00222,28,74.33,2316.37,3.5,1.0,No,No,Enrolled,Enterprise,,Mailed Check,Month-to-Month,Southeast,No
+CUST00223,33,66.5,,,4.0,No,,,,,,Month-to-Month,,No
+CUST00224,8,69.15,609.83,9.9,2.0,Yes,No,Enrolled,Standard,Low,Electronic Check,Month-to-Month,Northeast,No
+CUST00225,3,63.47,153.18,10.2,2.0,No,Yes,Not Enrolled,Standard,Medium,Bank Transfer,One Year,West,No
+CUST00226,40,42.82,1728.75,3.4,2.0,No,Yes,Not Enrolled,Premium,Medium,Credit Card,One Year,Midwest,No
+CUST00227,7,94.04,770.97,16.0,2.0,Yes,No,Enrolled,Standard,Medium,Credit Card,Two Year,West,No
+CUST00228,3,70.56,174.79,6.5,2.0,No,No,Enrolled,Standard,,Mailed Check,One Year,Midwest,No
+CUST00229,2,76.46,258.48,11.4,3.0,No,No,Enrolled,Premium,,Credit Card,Two Year,Midwest,No
+CUST00230,5,35.88,274.3,2.8,2.0,Yes,Yes,Not Enrolled,Basic,Medium,Mailed Check,Two Year,Southwest,No
+CUST00231,25,37.34,947.69,14.1,1.0,No,No,Enrolled,Basic,Medium,Credit Card,Two Year,Midwest,No
+CUST00232,54,90.84,4496.36,18.2,1.0,Yes,No,Enrolled,Standard,,Electronic Check,One Year,West,No
+CUST00233,1,84.59,189.1,2.5,3.0,No,Yes,Enrolled,Basic,,,One Year,Northeast,No
+CUST00234,8,94.61,784.65,7.4,1.0,Yes,Yes,Enrolled,Enterprise,Low,Credit Card,Month-to-Month,Midwest,No
+CUST00235,41,66.13,2775.34,3.1,2.0,Yes,No,Enrolled,Premium,High,Bank Transfer,Month-to-Month,West,No
+CUST00236,11,33.58,368.3,21.8,0.0,No,No,Enrolled,Basic,,Electronic Check,Month-to-Month,Midwest,No
+CUST00237,25,69.5,1910.12,7.1,1.0,No,No,Not Enrolled,Standard,Medium,Mailed Check,Month-to-Month,West,Yes
+CUST00238,13,98.98,1238.44,4.9,1.0,No,No,Not Enrolled,Standard,Low,Bank Transfer,Two Year,Southwest,No
+CUST00239,7,82.76,588.94,43.8,2.0,Yes,No,Enrolled,Basic,Medium,Bank Transfer,One Year,West,No
+CUST00240,25,70.45,1822.46,,3.0,Yes,No,Enrolled,Premium,,Bank Transfer,Month-to-Month,Southwest,Yes
+CUST00241,18,24.39,487.69,9.7,1.0,No,Yes,Not Enrolled,Basic,VIP,Bank Transfer,Month-to-Month,Northeast,No
+CUST00242,12,76.65,856.05,10.0,0.0,Yes,Yes,Enrolled,Premium,Low,Electronic Check,One Year,Midwest,No
+CUST00243,10,83.7,812.38,1.9,2.0,Yes,No,Not Enrolled,Standard,High,Bank Transfer,One Year,Southwest,No
+CUST00244,12,58.63,697.57,16.4,0.0,No,No,Enrolled,Basic,Low,Bank Transfer,Two Year,Southeast,No
+CUST00245,19,64.03,1160.18,2.8,3.0,Yes,No,Enrolled,Standard,High,Credit Card,Month-to-Month,Midwest,No
+CUST00246,16,45.92,800.27,2.8,,No,No,Enrolled,Premium,Low,Bank Transfer,Two Year,Midwest,No
+CUST00247,57,61.7,3181.0,17.5,1.0,Yes,Yes,Not Enrolled,Basic,High,Electronic Check,One Year,Southwest,Yes
+CUST00248,28,62.59,1830.37,10.7,1.0,No,Yes,Enrolled,Standard,,Credit Card,Two Year,Northeast,No
+CUST00249,40,57.34,2112.73,,,No,,,,Low,,One Year,,No
+CUST00250,4,53.91,,,,No,,,Standard,High,,Two Year,,No
+CUST00251,1,38.95,8.21,2.8,3.0,Yes,No,Enrolled,Standard,VIP,Bank Transfer,Month-to-Month,West,Yes
+CUST00252,2,75.36,85.48,3.0,0.0,No,No,Not Enrolled,Enterprise,Medium,Credit Card,Month-to-Month,Northeast,No
+CUST00253,37,48.32,1849.54,,2.0,No,No,Not Enrolled,,Low,Credit Card,Month-to-Month,Southwest,Yes
+CUST00254,9,116.74,968.68,16.2,2.0,No,No,Enrolled,Enterprise,High,Mailed Check,Month-to-Month,Southeast,No
+CUST00255,13,36.7,494.89,8.1,2.0,No,No,Enrolled,Basic,Low,Bank Transfer,Two Year,Southwest,No
+CUST00256,14,46.9,662.86,6.8,3.0,No,No,Not Enrolled,Standard,,Mailed Check,One Year,Southeast,No
+CUST00257,4,68.92,249.08,9.7,2.0,No,No,Enrolled,Standard,Low,Credit Card,One Year,Southwest,No
+CUST00258,22,60.11,1329.15,10.3,4.0,No,Yes,Enrolled,Basic,Low,Credit Card,One Year,Northeast,No
+CUST00259,8,66.99,512.01,5.8,1.0,No,Yes,Not Enrolled,Basic,,Credit Card,Month-to-Month,Northeast,Yes
+CUST00260,22,20.0,387.08,2.6,1.0,Yes,No,Enrolled,Basic,,Bank Transfer,One Year,West,No
+CUST00261,6,22.61,139.1,40.7,2.0,No,Yes,Not Enrolled,Standard,,Bank Transfer,Month-to-Month,West,Yes
+CUST00262,49,85.26,4351.85,1.4,2.0,No,No,Not Enrolled,Premium,,Electronic Check,One Year,Midwest,No
+CUST00263,6,67.56,347.63,3.3,0.0,No,No,Not Enrolled,Standard,Low,Credit Card,Two Year,Southeast,No
+CUST00264,9,54.52,514.29,12.7,0.0,No,No,Not Enrolled,Standard,,,Month-to-Month,West,Yes
+CUST00265,10,65.36,630.46,2.1,0.0,No,No,Enrolled,Enterprise,Medium,,One Year,Midwest,No
+CUST00266,5,80.6,410.69,18.5,1.0,Yes,Yes,Enrolled,Standard,Low,Credit Card,Month-to-Month,Northeast,Yes
+CUST00267,23,77.56,1690.99,25.4,1.0,Yes,Yes,Enrolled,Enterprise,Medium,Bank Transfer,Two Year,Northeast,No
+CUST00268,12,68.87,911.92,33.7,,No,No,Enrolled,Basic,Medium,Bank Transfer,Month-to-Month,West,No
+CUST00269,54,44.46,2398.78,15.3,2.0,No,Yes,Enrolled,Basic,Medium,Electronic Check,Month-to-Month,Southeast,No
+CUST00270,10,126.29,1202.16,2.8,2.0,Yes,Yes,Not Enrolled,Premium,Low,Mailed Check,One Year,Midwest,No
+CUST00271,7,36.52,280.26,1.8,2.0,No,No,Not Enrolled,Basic,Low,Credit Card,Month-to-Month,West,Yes
+CUST00272,7,47.47,353.86,2.1,0.0,No,No,Enrolled,Standard,,Credit Card,Month-to-Month,Midwest,Yes
+CUST00273,22,25.31,590.4,9.9,2.0,No,No,Not Enrolled,Basic,Low,Electronic Check,Two Year,West,Yes
+CUST00274,2,54.35,198.83,4.5,1.0,Yes,Yes,Enrolled,Standard,,Credit Card,Two Year,Midwest,Yes
+CUST00275,4,21.75,63.21,,2.0,No,No,Not Enrolled,Basic,,Bank Transfer,Month-to-Month,Midwest,No
+CUST00276,7,45.16,437.44,50.0,3.0,Yes,No,Enrolled,Enterprise,Low,Electronic Check,Month-to-Month,West,No
+CUST00277,7,78.74,609.0,8.6,1.0,No,Yes,Not Enrolled,Standard,High,Bank Transfer,Two Year,Southeast,No
+CUST00278,1,61.84,88.65,3.7,2.0,No,No,Enrolled,Basic,,Electronic Check,One Year,West,No
+CUST00279,3,57.64,187.53,1.8,1.0,No,Yes,Enrolled,Standard,Medium,Electronic Check,Two Year,Northeast,Yes
+CUST00280,25,46.83,1232.83,,,No,,,Basic,Low,,Month-to-Month,,No
+CUST00281,5,78.64,367.93,4.6,1.0,No,Yes,Not Enrolled,Premium,,Electronic Check,Month-to-Month,Northeast,Yes
+CUST00282,10,67.57,749.63,15.4,2.0,No,Yes,Not Enrolled,Enterprise,Low,Credit Card,Two Year,Northeast,No
+CUST00283,4,62.84,158.1,4.1,2.0,No,No,Not Enrolled,Standard,,Credit Card,Two Year,Southeast,No
+CUST00284,6,55.67,,,2.0,Yes,,,,,Credit Card,Month-to-Month,Midwest,Yes
+CUST00285,19,84.24,1641.08,5.3,5.0,No,No,Not Enrolled,Basic,,Credit Card,One Year,Southeast,No
+CUST00286,3,30.19,200.37,6.5,1.0,No,No,Enrolled,Basic,Medium,Bank Transfer,Month-to-Month,Southeast,Yes
+CUST00287,30,96.1,2710.79,2.8,1.0,No,Yes,Not Enrolled,Premium,,Bank Transfer,Month-to-Month,Northeast,No
+CUST00288,2,60.64,132.71,33.7,3.0,No,No,Enrolled,Basic,Medium,Bank Transfer,One Year,West,No
+CUST00289,22,37.91,760.53,1.6,2.0,No,No,Not Enrolled,Basic,Medium,Electronic Check,One Year,Southeast,No
+CUST00290,24,97.92,2250.53,13.9,4.0,No,No,Enrolled,Enterprise,,Electronic Check,One Year,Midwest,Yes
+CUST00291,14,73.35,1053.47,50.0,1.0,No,No,Not Enrolled,Enterprise,Low,Credit Card,Two Year,Southwest,No
+CUST00292,7,71.8,478.42,5.1,0.0,No,No,Not Enrolled,,Low,Electronic Check,Month-to-Month,West,Yes
+CUST00293,11,67.89,,1.7,,No,No,,,Low,Credit Card,Month-to-Month,,Yes
+CUST00294,2,38.78,31.65,12.4,0.0,Yes,Yes,Not Enrolled,Basic,,Mailed Check,Month-to-Month,Northeast,No
+CUST00295,19,88.98,1659.4,19.4,2.0,No,No,Enrolled,Standard,,Electronic Check,Two Year,Midwest,No
+CUST00296,40,50.85,2182.77,3.6,0.0,Yes,Yes,Not Enrolled,Standard,,Electronic Check,Month-to-Month,Midwest,No
+CUST00297,1,20.0,0.0,14.8,2.0,Yes,No,Enrolled,Basic,Medium,Bank Transfer,Two Year,West,No
+CUST00298,28,47.24,1216.93,7.0,,No,No,Not Enrolled,Standard,Low,Credit Card,Month-to-Month,Southeast,No
+CUST00299,69,52.55,,,,No,,,,High,Electronic Check,Month-to-Month,,No
+CUST00300,31,90.7,2627.43,21.2,2.0,No,No,Enrolled,Enterprise,,Bank Transfer,One Year,West,No
+CUST00301,3,46.09,72.01,2.7,1.0,Yes,No,Not Enrolled,Enterprise,Medium,Bank Transfer,Two Year,West,No
+CUST00302,4,42.89,151.63,,2.0,No,No,Enrolled,Basic,,Credit Card,Month-to-Month,Northeast,No
+CUST00303,5,81.19,302.01,6.1,2.0,Yes,Yes,Enrolled,Premium,Low,Bank Transfer,Month-to-Month,Southeast,No
+CUST00304,14,108.83,,7.6,,No,,,,,Electronic Check,Month-to-Month,Southeast,No
+CUST00305,39,82.71,3112.4,17.0,2.0,Yes,No,Not Enrolled,Standard,Low,Credit Card,Month-to-Month,Southwest,Yes
+CUST00306,12,77.59,908.82,4.0,2.0,No,No,Enrolled,Premium,,Electronic Check,Month-to-Month,Southeast,No
+CUST00307,1,71.76,143.98,40.6,,No,No,Enrolled,Standard,Low,Bank Transfer,One Year,Northeast,Yes
+CUST00308,32,54.65,1875.25,19.9,1.0,No,No,Not Enrolled,,Low,Credit Card,Two Year,Southwest,No
+CUST00309,14,64.64,911.96,16.3,0.0,Yes,Yes,Enrolled,Standard,,Bank Transfer,One Year,Northeast,No
+CUST00310,1,111.59,0.0,1.2,2.0,No,No,Enrolled,Premium,,Electronic Check,Two Year,Southeast,No
+CUST00311,19,85.01,1562.03,5.2,4.0,No,No,Enrolled,Premium,Low,Credit Card,Two Year,Midwest,No
+CUST00312,17,70.02,1197.14,3.0,1.0,No,No,Not Enrolled,Premium,Low,Bank Transfer,Month-to-Month,Midwest,No
+CUST00313,13,41.27,590.3,43.2,3.0,No,No,Not Enrolled,Standard,,Credit Card,Month-to-Month,Midwest,No
+CUST00314,8,62.52,480.85,50.0,1.0,No,Yes,Not Enrolled,Premium,High,Credit Card,Two Year,West,No
+CUST00315,7,70.66,399.44,,0.0,No,Yes,Enrolled,Basic,,Credit Card,One Year,Northeast,No
+CUST00316,5,92.17,,,,Yes,,,,High,,Month-to-Month,Southeast,Yes
+CUST00317,14,80.39,1179.18,17.4,1.0,No,No,Not Enrolled,Premium,Low,Electronic Check,Two Year,Northeast,No
+CUST00318,35,66.56,2174.17,30.2,0.0,Yes,Yes,Enrolled,Enterprise,,Credit Card,Month-to-Month,Northeast,No
+CUST00319,2,71.59,163.98,12.9,3.0,No,Yes,Enrolled,Premium,Medium,Electronic Check,Month-to-Month,Southeast,No
+CUST00320,33,92.05,2845.51,1.7,1.0,Yes,Yes,Enrolled,Enterprise,Medium,Electronic Check,Month-to-Month,Midwest,No
+CUST00321,2,66.99,152.67,11.9,2.0,No,No,Not Enrolled,Basic,,Credit Card,One Year,West,No
+CUST00322,12,47.52,560.21,13.2,3.0,Yes,No,Enrolled,Standard,Low,Electronic Check,Month-to-Month,Northeast,No
+CUST00323,2,20.0,0.0,7.1,0.0,Yes,No,Not Enrolled,Basic,Low,Credit Card,Month-to-Month,West,Yes
+CUST00324,44,84.52,3394.56,18.6,3.0,No,No,Enrolled,Premium,,Credit Card,One Year,Midwest,No
+CUST00325,34,77.76,2832.54,13.0,1.0,No,Yes,Enrolled,Premium,,Mailed Check,Month-to-Month,Southeast,No
+CUST00326,45,74.91,3366.22,24.0,1.0,Yes,No,Not Enrolled,Standard,,Bank Transfer,One Year,West,No
+CUST00327,5,47.81,270.24,,4.0,No,No,Not Enrolled,Standard,Low,Mailed Check,One Year,West,Yes
+CUST00328,1,92.66,36.21,21.6,1.0,No,Yes,Enrolled,Premium,Low,Bank Transfer,Month-to-Month,Northeast,No
+CUST00329,9,25.39,173.28,,3.0,No,No,Not Enrolled,Standard,Low,Bank Transfer,Month-to-Month,Northeast,No
+CUST00330,29,71.46,1988.75,10.2,2.0,Yes,No,Enrolled,Standard,,Electronic Check,Month-to-Month,Southwest,Yes
+CUST00331,44,62.85,2667.09,3.2,3.0,No,No,Enrolled,Standard,Medium,Bank Transfer,Two Year,Midwest,No
+CUST00332,5,76.35,454.82,6.5,1.0,No,No,Enrolled,Standard,,Bank Transfer,One Year,Midwest,Yes
+CUST00333,24,61.1,1412.37,1.0,0.0,No,No,Not Enrolled,Basic,Medium,Electronic Check,Month-to-Month,West,No
+CUST00334,1,70.56,33.39,6.2,1.0,Yes,Yes,Enrolled,Basic,Medium,Credit Card,Two Year,Midwest,Yes
+CUST00335,3,48.69,107.18,3.9,1.0,Yes,No,Not Enrolled,Basic,,Mailed Check,Month-to-Month,Midwest,Yes
+CUST00336,4,65.96,275.8,9.8,0.0,Yes,Yes,Not Enrolled,Premium,,Bank Transfer,Month-to-Month,Northeast,Yes
+CUST00337,11,40.54,497.75,8.4,,No,Yes,Not Enrolled,Standard,Low,Credit Card,Two Year,Northeast,No
+CUST00338,4,61.96,283.81,6.9,0.0,Yes,Yes,Not Enrolled,Basic,,Mailed Check,Month-to-Month,Southeast,Yes
+CUST00339,13,53.52,703.61,2.7,3.0,No,No,Not Enrolled,Standard,,Bank Transfer,One Year,Northeast,No
+CUST00340,19,80.42,1433.28,,3.0,No,No,Enrolled,Enterprise,Medium,Credit Card,One Year,Northeast,No
+CUST00341,38,92.26,3812.87,2.9,1.0,No,Yes,Enrolled,Standard,High,Bank Transfer,Two Year,Southwest,No
+CUST00342,1,22.3,,8.3,1.0,No,No,Enrolled,Basic,Low,Bank Transfer,Two Year,Northeast,No
+CUST00343,20,47.1,815.62,3.1,1.0,No,No,Enrolled,Basic,VIP,Bank Transfer,Two Year,West,No
+CUST00344,1,24.04,,18.6,,No,No,Enrolled,Enterprise,Medium,Electronic Check,Month-to-Month,Northeast,Yes
+CUST00345,2,42.33,21.13,1.9,2.0,Yes,No,Enrolled,Basic,Low,Credit Card,Month-to-Month,Midwest,No
+CUST00346,15,45.31,667.8,41.8,0.0,No,Yes,Not Enrolled,Basic,,Bank Transfer,Month-to-Month,Midwest,Yes
+CUST00347,5,106.25,560.45,,0.0,No,No,Enrolled,Premium,Medium,Bank Transfer,Two Year,West,No
+CUST00348,6,65.76,500.48,6.7,1.0,No,Yes,Enrolled,Premium,,Electronic Check,Month-to-Month,West,Yes
+CUST00349,5,46.08,212.92,13.4,0.0,Yes,No,Enrolled,Standard,,Mailed Check,One Year,Southwest,Yes
+CUST00350,13,28.05,368.6,6.2,1.0,No,No,Enrolled,Basic,,Mailed Check,Two Year,Southeast,No
+CUST00351,3,109.53,328.36,8.4,,No,Yes,Not Enrolled,Basic,Low,Credit Card,Month-to-Month,Midwest,Yes
+CUST00352,31,77.12,2444.29,3.8,1.0,No,No,Not Enrolled,Premium,,Credit Card,Month-to-Month,West,No
+CUST00353,1,61.11,62.73,5.5,0.0,Yes,No,Enrolled,Standard,,Credit Card,Month-to-Month,Northeast,Yes
+CUST00354,25,65.63,1772.69,1.8,0.0,No,Yes,Enrolled,Standard,Low,Electronic Check,Month-to-Month,Southeast,No
+CUST00355,4,78.09,349.12,31.4,2.0,No,Yes,Enrolled,Premium,Medium,Electronic Check,One Year,Southeast,No
+CUST00356,14,84.56,1247.24,8.6,3.0,No,No,Not Enrolled,Basic,,Bank Transfer,Month-to-Month,Southeast,No
+CUST00357,20,116.32,2338.5,12.7,2.0,No,Yes,Enrolled,Standard,VIP,Mailed Check,Month-to-Month,Midwest,Yes
+CUST00358,45,38.28,1780.18,22.1,1.0,Yes,No,Enrolled,Basic,Medium,Electronic Check,Month-to-Month,Southwest,Yes
+CUST00359,7,92.4,610.97,2.6,1.0,No,No,Not Enrolled,Standard,Low,Bank Transfer,Two Year,Midwest,No
+CUST00360,6,89.6,,9.3,,No,,,,Low,,One Year,,No
+CUST00361,20,20.0,443.79,1.6,1.0,No,Yes,Enrolled,Basic,,Bank Transfer,Month-to-Month,Midwest,No
+CUST00362,72,51.95,3794.39,13.4,2.0,No,No,Not Enrolled,Premium,High,Credit Card,Two Year,Northeast,No
+CUST00363,44,91.87,4162.85,5.9,2.0,No,Yes,Not Enrolled,Enterprise,High,Credit Card,One Year,Southwest,No
+CUST00364,1,78.39,86.93,25.4,1.0,Yes,No,Enrolled,Premium,High,Credit Card,Month-to-Month,West,Yes
+CUST00365,13,51.55,592.28,,0.0,No,No,Not Enrolled,Basic,High,Mailed Check,One Year,Southeast,No
+CUST00366,10,107.84,1086.24,5.0,3.0,No,No,Enrolled,Premium,Medium,,Month-to-Month,Southwest,Yes
+CUST00367,43,89.69,3903.07,11.5,3.0,No,Yes,Enrolled,Premium,Medium,Electronic Check,One Year,West,No
+CUST00368,5,45.47,284.11,5.1,0.0,No,No,Not Enrolled,Standard,,Credit Card,Two Year,Midwest,No
+CUST00369,72,36.76,2567.06,7.6,0.0,No,No,Enrolled,Standard,,Bank Transfer,Month-to-Month,Southwest,No
+CUST00370,9,90.12,878.26,7.0,1.0,No,Yes,Not Enrolled,Premium,Medium,Credit Card,Month-to-Month,Northeast,Yes
+CUST00371,14,66.38,908.56,8.0,2.0,No,Yes,Enrolled,Premium,Medium,Bank Transfer,One Year,West,No
+CUST00372,14,73.8,1034.7,7.5,2.0,Yes,Yes,Enrolled,Standard,High,Bank Transfer,Month-to-Month,West,No
+CUST00373,1,81.72,95.18,29.8,0.0,Yes,No,Not Enrolled,Basic,Medium,Credit Card,Two Year,West,No
+CUST00374,9,93.38,820.2,14.7,0.0,Yes,No,Enrolled,Premium,Low,Electronic Check,Month-to-Month,Southeast,No
+CUST00375,26,89.69,2421.89,12.0,2.0,No,Yes,Enrolled,Premium,Low,Credit Card,Month-to-Month,Northeast,No
+CUST00376,27,113.03,2860.72,2.9,,No,No,Not Enrolled,Enterprise,,Bank Transfer,Month-to-Month,Southwest,No
+CUST00377,5,39.72,158.15,7.2,2.0,No,No,Enrolled,Basic,Low,Bank Transfer,Two Year,Northeast,No
+CUST00378,15,79.78,1271.95,1.4,0.0,No,Yes,Not Enrolled,Standard,,,One Year,Southeast,No
+CUST00379,25,70.07,1619.69,1.6,1.0,No,No,Enrolled,Premium,High,Bank Transfer,Month-to-Month,West,Yes
+CUST00380,13,74.73,1115.23,50.0,0.0,No,No,Not Enrolled,Standard,Low,Electronic Check,One Year,Midwest,No
+CUST00381,1,75.04,50.01,11.1,0.0,No,Yes,Enrolled,Standard,Low,Credit Card,One Year,Midwest,Yes
+CUST00382,24,78.23,1958.3,38.1,4.0,No,Yes,Not Enrolled,Premium,,Credit Card,Month-to-Month,Southeast,No
+CUST00383,7,93.54,630.3,31.1,2.0,No,No,Enrolled,Basic,,Credit Card,Month-to-Month,Midwest,No
+CUST00384,11,72.23,831.65,16.9,1.0,No,Yes,Enrolled,Standard,Low,Electronic Check,Month-to-Month,Midwest,No
+CUST00385,19,22.31,433.12,24.0,1.0,Yes,Yes,Not Enrolled,Standard,High,Credit Card,One Year,Southeast,No
+CUST00386,14,40.43,651.38,13.6,5.0,No,No,Enrolled,Basic,,Mailed Check,Month-to-Month,Northeast,No
+CUST00387,23,64.76,1462.07,19.6,1.0,No,No,Enrolled,Standard,Medium,Bank Transfer,Month-to-Month,West,No
+CUST00388,72,107.99,7323.23,6.0,2.0,No,Yes,Enrolled,,High,Bank Transfer,Two Year,Northeast,No
+CUST00389,8,28.28,258.48,1.8,0.0,No,Yes,Enrolled,Basic,,Bank Transfer,Two Year,Midwest,No
+CUST00390,2,103.3,190.83,4.7,5.0,Yes,No,Not Enrolled,Premium,,Credit Card,Month-to-Month,West,Yes
+CUST00391,6,67.65,373.64,26.6,1.0,No,,Not Enrolled,Standard,Low,Mailed Check,Month-to-Month,Southeast,No
+CUST00392,18,74.07,1366.78,50.0,,No,Yes,Not Enrolled,Standard,,Bank Transfer,Month-to-Month,Northeast,Yes
+CUST00393,14,47.47,730.37,11.3,2.0,No,Yes,Enrolled,Standard,,Credit Card,Two Year,Southwest,No
+CUST00394,61,115.24,7135.61,32.2,4.0,No,No,Not Enrolled,Standard,VIP,Electronic Check,Month-to-Month,Midwest,No
+CUST00395,14,108.85,1527.4,20.4,4.0,Yes,Yes,Enrolled,Premium,,Mailed Check,Two Year,Midwest,No
+CUST00396,4,102.52,355.41,3.0,3.0,Yes,No,Not Enrolled,Premium,Medium,Mailed Check,One Year,Southwest,No
+CUST00397,6,75.76,479.49,,2.0,No,No,Enrolled,Premium,,,Two Year,West,No
+CUST00398,60,20.0,1258.0,1.8,,No,,Not Enrolled,Basic,Low,Electronic Check,Month-to-Month,Southwest,No
+CUST00399,12,75.95,918.96,6.8,3.0,Yes,No,Not Enrolled,Basic,,Electronic Check,Month-to-Month,Midwest,Yes
+CUST00400,24,99.53,2378.14,11.3,2.0,No,Yes,Enrolled,Basic,Low,Credit Card,One Year,West,No
+CUST00401,19,84.04,1404.22,31.1,3.0,Yes,Yes,Enrolled,Enterprise,,Bank Transfer,Month-to-Month,Midwest,No
+CUST00402,7,93.56,563.77,12.5,4.0,No,No,Enrolled,Enterprise,Low,,Month-to-Month,Southeast,No
+CUST00403,26,85.66,2171.97,3.7,0.0,No,No,Enrolled,Enterprise,Medium,Mailed Check,Month-to-Month,Southeast,No
+CUST00404,7,50.13,366.25,36.4,5.0,No,No,Enrolled,Premium,Low,Bank Transfer,One Year,Northeast,No
+CUST00405,33,75.09,2577.63,4.0,1.0,No,No,Enrolled,Standard,Medium,Bank Transfer,Month-to-Month,Southeast,Yes
+CUST00406,11,78.37,938.91,49.0,0.0,No,No,Not Enrolled,Enterprise,Low,Bank Transfer,One Year,Northeast,No
+CUST00407,2,48.46,74.53,2.4,0.0,No,No,Enrolled,Basic,Low,,One Year,Midwest,No
+CUST00408,11,64.22,737.9,6.7,2.0,No,No,Not Enrolled,Premium,Medium,Electronic Check,One Year,Southwest,No
+CUST00409,4,84.49,366.94,8.7,0.0,No,Yes,Enrolled,Standard,,Mailed Check,Two Year,Southeast,No
+CUST00410,40,76.03,3294.45,9.2,1.0,No,No,Not Enrolled,Premium,Medium,Credit Card,One Year,West,No
+CUST00411,12,43.49,417.8,26.6,3.0,No,No,Enrolled,Standard,,Electronic Check,Two Year,West,No
+CUST00412,3,74.06,,,,No,,Enrolled,Premium,Medium,,One Year,Midwest,Yes
+CUST00413,9,107.73,1053.13,,2.0,No,Yes,Enrolled,Enterprise,,Bank Transfer,One Year,Southwest,No
+CUST00414,10,42.49,382.12,10.0,1.0,No,Yes,Enrolled,Basic,,Mailed Check,One Year,Southeast,No
+CUST00415,20,64.69,1304.91,26.5,2.0,Yes,No,Not Enrolled,Enterprise,Low,Credit Card,Two Year,Midwest,No
+CUST00416,72,104.63,7990.97,20.3,2.0,Yes,Yes,Not Enrolled,Standard,,Credit Card,Month-to-Month,West,Yes
+CUST00417,10,71.13,683.84,4.2,2.0,Yes,Yes,Not Enrolled,Standard,High,Bank Transfer,One Year,Southeast,Yes
+CUST00418,22,78.66,1694.34,12.7,0.0,No,No,Enrolled,Basic,,Bank Transfer,Month-to-Month,Southwest,No
+CUST00419,35,94.29,3220.8,5.0,0.0,No,No,Not Enrolled,Premium,Medium,Mailed Check,Two Year,Northeast,No
+CUST00420,57,99.9,6024.94,50.0,4.0,No,No,Enrolled,,High,Bank Transfer,Month-to-Month,Northeast,No
+CUST00421,2,81.75,250.86,0.5,4.0,Yes,No,Enrolled,Standard,,Mailed Check,Month-to-Month,Midwest,Yes
+CUST00422,14,76.76,1182.35,,1.0,Yes,Yes,Enrolled,Standard,Low,Electronic Check,Month-to-Month,Northeast,No
+CUST00423,4,94.82,447.34,14.8,1.0,Yes,Yes,Enrolled,Standard,Low,Credit Card,Month-to-Month,West,Yes
+CUST00424,1,111.57,107.99,2.3,1.0,Yes,No,Enrolled,Premium,High,Bank Transfer,Two Year,Midwest,No
+CUST00425,27,72.21,1860.98,0.9,,No,Yes,Enrolled,Standard,Low,Bank Transfer,Two Year,Northeast,No
+CUST00426,29,41.03,1269.42,,,No,,,,Medium,,One Year,,No
+CUST00427,23,74.31,1753.44,10.2,0.0,Yes,No,Enrolled,Premium,Low,Credit Card,Month-to-Month,Southeast,Yes
+CUST00428,15,77.43,1117.8,19.8,2.0,No,Yes,Enrolled,Premium,,Mailed Check,Month-to-Month,Southeast,Yes
+CUST00429,72,88.82,5976.79,50.0,3.0,No,No,Not Enrolled,Standard,Medium,Electronic Check,One Year,Southeast,No
+CUST00430,7,24.72,181.94,6.5,4.0,No,Yes,Enrolled,Basic,High,Mailed Check,One Year,Northeast,Yes
+CUST00431,10,54.83,402.4,15.0,1.0,Yes,Yes,Not Enrolled,Basic,,Bank Transfer,Month-to-Month,Midwest,Yes
+CUST00432,30,44.68,,,,No,,Enrolled,,,Credit Card,Month-to-Month,Southeast,No
+CUST00433,7,20.0,175.38,9.9,3.0,No,No,Enrolled,Basic,Low,Electronic Check,One Year,West,No
+CUST00434,44,57.7,2420.28,3.3,2.0,No,No,Enrolled,Premium,Medium,Credit Card,Month-to-Month,Southwest,No
+CUST00435,3,81.3,190.87,12.7,1.0,No,No,Enrolled,Enterprise,Low,Electronic Check,One Year,Northeast,No
+CUST00436,15,57.19,943.36,8.5,3.0,No,Yes,Enrolled,Basic,Low,Credit Card,Two Year,Southeast,No
+CUST00437,27,97.36,2458.1,1.4,1.0,No,Yes,Enrolled,Premium,,Credit Card,Month-to-Month,West,No
+CUST00438,14,41.15,,,1.0,No,,,,,,Month-to-Month,,Yes
+CUST00439,7,121.32,958.8,50.0,1.0,Yes,No,Not Enrolled,Premium,Low,Credit Card,Two Year,Southwest,Yes
+CUST00440,10,81.89,812.64,2.6,,No,No,Enrolled,Premium,Low,Credit Card,One Year,West,No
+CUST00441,10,69.24,665.83,1.6,1.0,No,Yes,Not Enrolled,Basic,Low,Mailed Check,Month-to-Month,Midwest,Yes
+CUST00442,1,48.04,110.08,5.1,2.0,Yes,Yes,Not Enrolled,Standard,Low,Credit Card,One Year,Midwest,Yes
+CUST00443,1,64.55,101.7,7.2,0.0,No,No,Enrolled,Basic,,Electronic Check,Month-to-Month,West,No
+CUST00444,17,87.02,1619.74,7.7,2.0,No,No,Enrolled,Standard,,Mailed Check,Month-to-Month,Southwest,No
+CUST00445,25,60.19,1360.0,9.1,0.0,No,No,Enrolled,Standard,Low,Credit Card,Month-to-Month,West,Yes
+CUST00446,12,112.84,1376.22,8.2,0.0,Yes,,Not Enrolled,Enterprise,,Mailed Check,Month-to-Month,West,Yes
+CUST00447,15,69.65,,,1.0,No,,,Standard,Low,,Two Year,,No
+CUST00448,62,68.35,4126.61,3.2,1.0,Yes,Yes,Enrolled,Basic,Medium,Credit Card,One Year,Southeast,No
+CUST00449,7,118.17,723.03,4.0,2.0,No,No,Not Enrolled,Standard,Low,Credit Card,Month-to-Month,West,No
+CUST00450,12,23.24,269.54,11.7,,No,No,Enrolled,,High,Credit Card,Month-to-Month,Southwest,No
+CUST00451,12,66.42,966.03,1.5,1.0,No,No,Enrolled,Premium,Low,Credit Card,Month-to-Month,Midwest,No
+CUST00452,21,64.26,1073.11,,1.0,Yes,No,Not Enrolled,Standard,,Electronic Check,Month-to-Month,West,No
+CUST00453,25,65.9,1749.53,10.4,0.0,No,No,Not Enrolled,Basic,,Credit Card,Two Year,Northeast,No
+CUST00454,12,113.23,1403.67,,1.0,Yes,No,Not Enrolled,Premium,Low,Credit Card,Two Year,Southeast,No
+CUST00455,25,84.93,1904.65,0.7,0.0,Yes,No,Enrolled,Premium,,Electronic Check,Month-to-Month,Southeast,No
+CUST00456,36,58.33,2120.05,4.8,0.0,No,No,Enrolled,Premium,,Mailed Check,Two Year,Northeast,No
+CUST00457,16,66.44,1212.53,17.0,4.0,No,No,Enrolled,Standard,Low,Bank Transfer,One Year,Southeast,Yes
+CUST00458,5,87.61,349.71,11.3,2.0,No,No,Not Enrolled,Premium,Low,Bank Transfer,Month-to-Month,West,Yes
+CUST00459,20,99.94,1977.21,10.9,1.0,No,No,Enrolled,Standard,Low,Credit Card,Month-to-Month,West,Yes
+CUST00460,12,36.71,467.81,3.7,2.0,Yes,No,Enrolled,Basic,High,Mailed Check,Two Year,Northeast,No
+CUST00461,49,84.54,4597.21,4.6,1.0,No,Yes,Enrolled,Standard,,Mailed Check,Month-to-Month,Midwest,No
+CUST00462,17,42.23,687.75,11.2,1.0,Yes,No,Not Enrolled,Basic,Low,Credit Card,Two Year,Midwest,No
+CUST00463,34,39.6,1257.16,17.9,3.0,No,No,Not Enrolled,Basic,Medium,Electronic Check,Month-to-Month,Southeast,Yes
+CUST00464,14,58.52,717.41,12.2,0.0,No,No,Not Enrolled,Basic,,Mailed Check,One Year,Midwest,Yes
+CUST00465,4,76.9,324.09,10.7,1.0,No,No,Enrolled,Standard,Low,Bank Transfer,Two Year,Southeast,No
+CUST00466,17,96.7,1601.25,2.5,0.0,No,Yes,Enrolled,Enterprise,,Bank Transfer,Month-to-Month,Southeast,No
+CUST00467,14,101.98,1227.36,24.7,2.0,Yes,Yes,Not Enrolled,Premium,Low,Mailed Check,One Year,West,Yes
+CUST00468,9,76.18,624.49,2.5,0.0,No,No,Enrolled,Premium,Low,Credit Card,Two Year,West,No
+CUST00469,1,74.95,124.9,7.5,2.0,No,No,Not Enrolled,Premium,,Electronic Check,Two Year,West,No
+CUST00470,27,150.0,3765.25,4.9,1.0,Yes,No,Not Enrolled,,Low,Credit Card,Two Year,Northeast,No
+CUST00471,72,61.8,4804.43,4.9,4.0,No,No,Not Enrolled,Standard,High,,One Year,Midwest,No
+CUST00472,46,76.82,3670.83,30.6,3.0,No,Yes,Enrolled,Standard,Medium,Credit Card,One Year,Northeast,No
+CUST00473,20,66.59,1408.53,12.8,2.0,No,No,Not Enrolled,Standard,Medium,Bank Transfer,Month-to-Month,West,No
+CUST00474,12,68.25,778.01,2.6,3.0,Yes,No,Enrolled,Standard,Low,Credit Card,Two Year,West,No
+CUST00475,16,25.41,476.38,5.1,1.0,Yes,,Not Enrolled,Standard,Medium,Credit Card,One Year,Southeast,No
+CUST00476,40,65.49,2815.34,2.7,2.0,No,No,Enrolled,Standard,Medium,Bank Transfer,Two Year,Southwest,No
+CUST00477,8,61.54,583.53,7.5,2.0,No,No,Enrolled,Standard,Medium,Bank Transfer,One Year,West,No
+CUST00478,31,20.0,656.44,2.8,0.0,No,No,Not Enrolled,Standard,Low,Credit Card,Month-to-Month,Southeast,No
+CUST00479,13,29.3,407.13,1.6,2.0,No,Yes,Enrolled,Basic,,Electronic Check,Two Year,West,No
+CUST00480,12,50.81,480.27,2.8,,No,No,Enrolled,Standard,Low,Mailed Check,Two Year,Southeast,No
+CUST00481,7,59.98,399.38,0.5,1.0,No,No,Enrolled,Basic,,Credit Card,One Year,West,No
+CUST00482,15,71.65,1125.15,15.7,,No,No,Not Enrolled,Basic,Low,Bank Transfer,One Year,West,No
+CUST00483,55,73.45,4325.78,11.9,1.0,No,No,Enrolled,Enterprise,Medium,Mailed Check,Month-to-Month,Northeast,No
+CUST00484,11,47.84,504.75,3.6,2.0,No,No,Enrolled,Basic,,Electronic Check,Month-to-Month,West,No
+CUST00485,2,87.12,174.94,3.3,2.0,Yes,Yes,Enrolled,Standard,Low,Electronic Check,One Year,Southwest,No
+CUST00486,2,108.92,187.37,2.4,2.0,No,Yes,Not Enrolled,Enterprise,Medium,Bank Transfer,One Year,Southwest,Yes
+CUST00487,16,92.96,1537.22,7.3,1.0,No,Yes,Not Enrolled,Enterprise,,Mailed Check,One Year,Midwest,No
+CUST00488,3,102.57,306.77,11.5,0.0,No,,Not Enrolled,Enterprise,Medium,Credit Card,Two Year,Southwest,No
+CUST00489,9,130.3,1295.96,2.0,2.0,No,No,Not Enrolled,Premium,Low,Mailed Check,Month-to-Month,West,No
+CUST00490,51,83.45,4503.2,2.1,0.0,No,No,Enrolled,Standard,Medium,Credit Card,One Year,Northeast,No
+CUST00491,12,75.56,936.82,,1.0,Yes,No,Not Enrolled,Premium,,Credit Card,One Year,Southeast,No
+CUST00492,19,82.26,1621.76,5.3,4.0,No,No,Not Enrolled,Premium,Medium,Electronic Check,Month-to-Month,West,Yes
+CUST00493,1,32.69,55.35,29.7,4.0,No,No,Enrolled,Basic,,Electronic Check,Month-to-Month,West,Yes
+CUST00494,34,67.8,,,,Yes,,,Standard,Low,Bank Transfer,Month-to-Month,Southeast,Yes
+CUST00495,7,32.87,229.77,1.3,1.0,No,Yes,Not Enrolled,Basic,Low,Mailed Check,Two Year,Northeast,No
+CUST00496,55,84.65,4898.11,2.5,2.0,No,No,Not Enrolled,Enterprise,High,Bank Transfer,Month-to-Month,West,No
+CUST00497,3,81.12,118.45,,3.0,No,Yes,Not Enrolled,Premium,Low,Credit Card,Month-to-Month,Northeast,No
+CUST00498,34,140.36,4856.96,1.7,4.0,Yes,No,Not Enrolled,Standard,Medium,Credit Card,One Year,Midwest,Yes
+CUST00499,27,105.83,2638.02,2.9,0.0,No,No,Enrolled,Enterprise,Medium,Electronic Check,Two Year,Southeast,No
+CUST00500,30,59.44,1749.19,10.9,4.0,Yes,No,Enrolled,Basic,Medium,Electronic Check,Month-to-Month,Southwest,No
+CUST00501,9,81.02,797.71,26.4,2.0,No,Yes,Not Enrolled,Enterprise,Medium,Electronic Check,Month-to-Month,Southeast,No
+CUST00502,7,96.11,567.55,2.0,3.0,No,No,Enrolled,Enterprise,Low,Credit Card,One Year,Southeast,No
+CUST00503,17,71.9,,,,Yes,,Enrolled,,,Credit Card,Two Year,,No
+CUST00504,3,90.93,224.65,5.1,2.0,No,Yes,Not Enrolled,Premium,Low,Mailed Check,Month-to-Month,Northeast,Yes
+CUST00505,37,90.19,3632.86,0.5,2.0,No,No,Not Enrolled,Premium,Medium,Electronic Check,One Year,Southeast,No
+CUST00506,19,70.89,1439.14,16.3,0.0,No,Yes,Enrolled,Basic,,Credit Card,Month-to-Month,Southeast,No
+CUST00507,22,45.23,1091.73,5.2,1.0,No,Yes,Not Enrolled,Basic,,Credit Card,Month-to-Month,Northeast,No
+CUST00508,33,80.86,2787.72,6.5,2.0,Yes,Yes,Enrolled,Enterprise,Low,Mailed Check,Month-to-Month,Southeast,Yes
+CUST00509,43,93.05,4266.74,17.3,1.0,No,Yes,Enrolled,Enterprise,Medium,Credit Card,Month-to-Month,West,No
+CUST00510,29,108.87,2941.07,15.3,2.0,No,Yes,Not Enrolled,Premium,Medium,Bank Transfer,Two Year,Northeast,No
+CUST00511,9,63.19,587.06,3.2,0.0,Yes,No,Not Enrolled,Basic,Medium,Electronic Check,Two Year,Midwest,Yes
+CUST00512,21,46.3,1110.41,2.6,,No,Yes,Enrolled,,Low,Bank Transfer,Two Year,West,No
+CUST00513,6,48.9,265.35,17.4,1.0,No,No,Enrolled,Standard,Low,Credit Card,Month-to-Month,Midwest,No
+CUST00514,10,78.84,796.01,50.0,1.0,Yes,No,Not Enrolled,Standard,Low,Electronic Check,Month-to-Month,Midwest,No
+CUST00515,14,103.16,1331.85,5.6,0.0,No,Yes,Not Enrolled,Enterprise,High,Credit Card,Two Year,Southwest,No
+CUST00516,16,102.68,1603.58,,1.0,No,Yes,Enrolled,Enterprise,Low,Bank Transfer,Two Year,Southwest,No
+CUST00517,7,82.87,627.34,5.9,3.0,No,Yes,Not Enrolled,Premium,Low,Credit Card,Month-to-Month,West,No
+CUST00518,12,54.58,611.6,,1.0,Yes,Yes,Enrolled,Basic,Low,Credit Card,One Year,Southwest,No
+CUST00519,10,73.76,819.49,10.6,2.0,No,No,Not Enrolled,Standard,,Mailed Check,One Year,Northeast,No
+CUST00520,4,31.68,108.09,3.0,2.0,Yes,No,Not Enrolled,Standard,Low,,Month-to-Month,Northeast,Yes
+CUST00521,1,63.4,111.02,1.4,2.0,Yes,Yes,Not Enrolled,Basic,,Bank Transfer,Month-to-Month,Southeast,Yes
+CUST00522,4,133.78,617.9,17.0,1.0,No,No,Not Enrolled,Enterprise,Low,Credit Card,One Year,Southeast,No
+CUST00523,20,35.34,651.38,10.8,2.0,Yes,No,Enrolled,Basic,,Bank Transfer,Month-to-Month,Southeast,No
+CUST00524,19,62.93,1105.94,15.0,5.0,No,No,Not Enrolled,Basic,Low,Bank Transfer,Two Year,Northeast,No
+CUST00525,12,56.93,615.62,30.3,4.0,No,No,Enrolled,Standard,Low,Credit Card,Month-to-Month,Northeast,Yes
+CUST00526,35,42.69,,,,No,,Enrolled,Basic,,Bank Transfer,One Year,,Yes
+CUST00527,1,43.19,,9.9,1.0,No,Yes,Enrolled,Standard,Low,Mailed Check,One Year,Midwest,No
+CUST00528,3,41.36,231.05,9.6,1.0,No,No,Enrolled,Basic,Low,Credit Card,Month-to-Month,West,Yes
+CUST00529,6,59.75,361.71,10.1,0.0,No,,Enrolled,Standard,Low,Credit Card,Two Year,Midwest,No
+CUST00530,72,78.66,5439.31,1.4,1.0,No,No,Not Enrolled,Standard,Low,Electronic Check,Month-to-Month,Northeast,Yes
+CUST00531,2,70.73,127.11,23.4,1.0,No,No,Enrolled,Enterprise,,Mailed Check,One Year,Southwest,No
+CUST00532,35,73.1,2468.85,8.0,1.0,No,No,Enrolled,Premium,,Electronic Check,One Year,West,No
+CUST00533,46,48.17,2115.24,15.1,0.0,No,No,Enrolled,Standard,Medium,Mailed Check,One Year,West,No
+CUST00534,56,75.34,3865.17,6.8,4.0,No,Yes,Enrolled,Standard,,Mailed Check,Two Year,Northeast,No
+CUST00535,21,33.21,,19.4,,Yes,,,,Low,,Month-to-Month,,No
+CUST00536,11,65.92,734.9,16.7,3.0,No,Yes,Enrolled,Standard,Medium,Electronic Check,One Year,West,No
+CUST00537,69,52.12,3234.53,4.6,2.0,Yes,No,Enrolled,Standard,,Mailed Check,One Year,West,No
+CUST00538,29,52.91,1668.82,2.3,2.0,No,Yes,Enrolled,Basic,Low,Bank Transfer,One Year,Southwest,No
+CUST00539,14,45.56,580.72,20.4,5.0,No,Yes,Not Enrolled,Basic,,Electronic Check,One Year,West,Yes
+CUST00540,59,35.7,1954.93,1.4,0.0,Yes,No,Enrolled,Basic,,Credit Card,Month-to-Month,West,Yes
+CUST00541,41,48.16,1990.81,3.1,1.0,No,Yes,Not Enrolled,Enterprise,,Mailed Check,One Year,Midwest,No
+CUST00542,9,39.64,423.97,6.1,1.0,No,No,Enrolled,Basic,,Electronic Check,Month-to-Month,West,Yes
+CUST00543,6,87.0,555.99,15.3,2.0,Yes,No,Enrolled,Enterprise,Low,Bank Transfer,Month-to-Month,Southeast,No
+CUST00544,5,63.92,343.68,16.8,0.0,No,No,Not Enrolled,Basic,Low,Mailed Check,Two Year,Northeast,No
+CUST00545,29,67.14,2114.21,4.9,2.0,Yes,No,Enrolled,Standard,,Electronic Check,One Year,Southeast,No
+CUST00546,11,24.52,279.23,1.1,0.0,No,No,Enrolled,Basic,Low,Bank Transfer,Month-to-Month,Southeast,Yes
+CUST00547,54,91.72,5251.39,2.7,0.0,Yes,No,Enrolled,Standard,,Mailed Check,One Year,Southwest,No
+CUST00548,15,58.72,837.36,29.2,0.0,No,No,Not Enrolled,Basic,Low,Mailed Check,Month-to-Month,Southwest,No
+CUST00549,4,101.64,439.35,8.7,2.0,No,No,Enrolled,Enterprise,Low,Electronic Check,Month-to-Month,Southeast,Yes
+CUST00550,56,74.85,4156.81,6.5,0.0,No,No,Not Enrolled,Premium,Medium,Bank Transfer,One Year,West,No
+CUST00551,11,87.5,864.33,4.7,3.0,No,Yes,Enrolled,Standard,Low,Electronic Check,Month-to-Month,Northeast,Yes
+CUST00552,25,89.27,2240.55,3.0,1.0,No,Yes,Not Enrolled,Standard,,Mailed Check,Month-to-Month,Midwest,No
+CUST00553,7,62.67,488.29,4.0,3.0,No,Yes,Not Enrolled,Premium,Medium,Credit Card,Month-to-Month,West,No
+CUST00554,10,64.08,604.94,10.5,,No,No,Not Enrolled,Standard,Medium,Bank Transfer,Month-to-Month,Southwest,No
+CUST00555,20,110.05,,7.5,1.0,No,,,,,Bank Transfer,One Year,,No
+CUST00556,8,72.51,644.82,6.4,1.0,No,No,Enrolled,Premium,Low,Bank Transfer,Month-to-Month,Southwest,No
+CUST00557,27,108.11,2737.18,12.0,1.0,No,No,Enrolled,Enterprise,Medium,Bank Transfer,Month-to-Month,Northeast,No
+CUST00558,17,69.94,1158.69,13.7,4.0,No,No,Not Enrolled,Enterprise,Low,Electronic Check,Month-to-Month,Midwest,No
+CUST00559,6,74.15,454.19,2.6,1.0,No,Yes,Enrolled,Basic,,Mailed Check,Two Year,Midwest,No
+CUST00560,10,61.92,659.56,3.7,1.0,No,Yes,Enrolled,Basic,Medium,Credit Card,One Year,Southeast,No
+CUST00561,25,48.36,1307.73,21.3,0.0,No,No,Enrolled,Standard,Low,Bank Transfer,Month-to-Month,Southwest,Yes
+CUST00562,6,28.49,91.17,5.2,3.0,No,Yes,Not Enrolled,Standard,Low,Credit Card,Month-to-Month,West,Yes
+CUST00563,5,72.2,362.62,4.2,2.0,Yes,No,Enrolled,Enterprise,,Credit Card,Two Year,Southeast,No
+CUST00564,6,87.25,523.29,3.2,1.0,No,No,Not Enrolled,Premium,Medium,Electronic Check,Month-to-Month,Northeast,Yes
+CUST00565,2,20.0,88.65,,1.0,No,No,Enrolled,Standard,Low,Mailed Check,Month-to-Month,Southeast,No
+CUST00566,39,81.91,3298.09,14.0,1.0,No,Yes,Not Enrolled,Premium,Low,Credit Card,Two Year,Southwest,No
+CUST00567,19,78.39,1639.81,2.2,1.0,Yes,Yes,Not Enrolled,Enterprise,Low,Electronic Check,Month-to-Month,West,No
+CUST00568,3,81.2,303.59,8.2,3.0,Yes,No,Enrolled,Premium,,Bank Transfer,One Year,West,No
+CUST00569,13,93.1,1415.74,2.7,3.0,No,Yes,Not Enrolled,Premium,Low,Bank Transfer,Two Year,Northeast,No
+CUST00570,53,117.96,5882.2,13.5,0.0,No,Yes,Not Enrolled,Premium,Medium,Bank Transfer,Month-to-Month,West,No
+CUST00571,72,75.91,5318.93,2.9,1.0,No,No,Not Enrolled,Premium,,Bank Transfer,Month-to-Month,West,No
+CUST00572,23,51.53,1327.92,5.1,1.0,No,No,Not Enrolled,Standard,Medium,Bank Transfer,Month-to-Month,Southeast,Yes
+CUST00573,1,118.96,,11.2,1.0,No,No,Not Enrolled,,Medium,Bank Transfer,Two Year,West,Yes
+CUST00574,26,103.75,2854.93,13.3,1.0,Yes,No,Enrolled,Enterprise,,Electronic Check,Two Year,Northeast,No
+CUST00575,9,87.75,873.27,9.5,3.0,Yes,Yes,Not Enrolled,Enterprise,Low,Electronic Check,One Year,West,Yes
+CUST00576,8,59.32,525.14,2.0,1.0,Yes,No,Not Enrolled,Standard,,Bank Transfer,Month-to-Month,Southwest,No
+CUST00577,17,52.8,884.87,5.2,5.0,No,No,Not Enrolled,Standard,Low,Bank Transfer,Two Year,Midwest,No
+CUST00578,35,47.13,1616.11,2.1,1.0,No,Yes,Not Enrolled,Basic,Medium,Electronic Check,One Year,Southeast,No
+CUST00579,4,104.86,349.38,3.9,1.0,No,No,Enrolled,Enterprise,Low,Credit Card,Month-to-Month,West,No
+CUST00580,10,78.58,748.88,10.1,1.0,No,No,Enrolled,Enterprise,,Mailed Check,Month-to-Month,Midwest,No
+CUST00581,28,41.24,1113.01,1.6,1.0,No,No,Not Enrolled,Standard,Low,Credit Card,One Year,Midwest,No
+CUST00582,15,105.08,1713.01,3.4,0.0,Yes,Yes,Enrolled,Enterprise,Medium,Credit Card,One Year,Southeast,No
+CUST00583,8,41.76,289.99,4.1,,No,No,Not Enrolled,Standard,High,Mailed Check,Month-to-Month,Midwest,No
+CUST00584,3,48.87,48.9,,,No,,,,,Credit Card,Month-to-Month,,No
+CUST00585,4,92.86,324.85,28.4,4.0,No,No,Enrolled,Standard,,Bank Transfer,Two Year,Southeast,No
+CUST00586,14,87.77,1162.64,2.1,1.0,Yes,No,Enrolled,Basic,,Bank Transfer,Month-to-Month,Southeast,No
+CUST00587,72,87.36,6135.35,,,No,Yes,,,Low,,Two Year,,No
+CUST00588,2,79.37,199.16,4.7,5.0,Yes,Yes,Enrolled,Premium,,Bank Transfer,Month-to-Month,Northeast,Yes
+CUST00589,22,65.61,1513.39,2.8,1.0,No,No,Enrolled,Basic,Medium,Bank Transfer,Two Year,Midwest,No
+CUST00590,23,63.24,1514.08,13.8,2.0,Yes,No,Not Enrolled,Enterprise,Low,Electronic Check,One Year,Midwest,Yes
+CUST00591,5,47.63,356.81,8.8,1.0,Yes,Yes,Not Enrolled,Standard,Low,Bank Transfer,Two Year,Northeast,No
+CUST00592,1,42.35,,,1.0,Yes,No,Not Enrolled,Standard,,Electronic Check,One Year,Southeast,No
+CUST00593,15,80.28,1225.54,34.0,,Yes,No,Not Enrolled,Standard,Medium,Electronic Check,One Year,Southwest,Yes
+CUST00594,10,64.92,741.24,7.0,2.0,No,Yes,Not Enrolled,Basic,,Credit Card,One Year,Southwest,No
+CUST00595,62,20.0,1207.66,7.8,1.0,No,No,Not Enrolled,Basic,High,Credit Card,Month-to-Month,Southeast,Yes
+CUST00596,5,69.95,283.41,7.0,1.0,No,Yes,Enrolled,Standard,,Electronic Check,One Year,Northeast,No
+CUST00597,14,80.68,1242.75,25.8,3.0,No,No,Not Enrolled,Enterprise,Medium,Bank Transfer,Month-to-Month,Southeast,No
+CUST00598,9,36.62,372.36,1.6,2.0,Yes,,Not Enrolled,Basic,Low,Bank Transfer,One Year,Southeast,Yes
+CUST00599,19,45.91,840.87,7.5,0.0,No,No,Enrolled,Basic,VIP,Credit Card,Two Year,Southwest,No
+CUST00600,34,61.1,1879.58,25.7,2.0,No,No,Enrolled,Premium,Medium,Electronic Check,One Year,Southwest,No
+CUST00601,33,97.82,3112.86,1.1,1.0,No,No,Not Enrolled,Premium,Low,Credit Card,Month-to-Month,Midwest,No
+CUST00602,11,55.95,590.47,7.1,0.0,No,No,Not Enrolled,Premium,Low,Credit Card,Month-to-Month,Southwest,No
+CUST00603,4,67.96,191.63,17.2,1.0,No,No,Enrolled,Standard,,Electronic Check,Month-to-Month,Southeast,No
+CUST00604,12,70.63,898.04,3.9,1.0,No,Yes,Enrolled,Premium,Low,Bank Transfer,One Year,Southeast,Yes
+CUST00605,1,59.81,,0.7,3.0,No,Yes,Not Enrolled,Standard,Medium,Credit Card,One Year,Southwest,No
+CUST00606,14,125.23,1856.67,,,No,Yes,Not Enrolled,Premium,Low,Electronic Check,Two Year,Southwest,No
+CUST00607,15,78.68,1203.13,4.5,2.0,Yes,No,Enrolled,Standard,,Electronic Check,Two Year,Northeast,Yes
+CUST00608,14,35.57,487.1,7.9,1.0,Yes,Yes,Enrolled,Basic,Low,Electronic Check,One Year,Midwest,No
+CUST00609,6,106.47,634.69,2.4,3.0,Yes,No,Enrolled,Standard,Low,Electronic Check,Month-to-Month,Midwest,No
+CUST00610,13,52.55,624.7,50.0,4.0,No,No,Not Enrolled,Premium,,Electronic Check,Two Year,Midwest,No
+CUST00611,3,64.62,233.3,50.0,1.0,No,No,Not Enrolled,Premium,Low,Mailed Check,Month-to-Month,Northeast,Yes
+CUST00612,17,84.14,1326.47,3.5,2.0,No,,Not Enrolled,Premium,Low,Electronic Check,Month-to-Month,Northeast,No
+CUST00613,12,71.61,921.43,,3.0,No,Yes,Not Enrolled,Premium,Low,Credit Card,Month-to-Month,Midwest,Yes
+CUST00614,16,100.54,1535.26,11.2,4.0,Yes,Yes,Not Enrolled,Enterprise,Medium,Bank Transfer,Month-to-Month,Southeast,No
+CUST00615,40,56.33,2363.0,4.2,0.0,No,,Not Enrolled,Basic,,Electronic Check,One Year,Southeast,Yes
+CUST00616,26,39.92,999.67,7.3,0.0,No,Yes,Enrolled,Basic,Low,Mailed Check,One Year,Southeast,No
+CUST00617,16,48.83,805.14,4.3,0.0,Yes,No,Enrolled,Standard,Low,Credit Card,One Year,Northeast,No
+CUST00618,65,29.55,1992.9,11.8,1.0,Yes,Yes,Not Enrolled,Standard,Low,Electronic Check,Two Year,West,No
+CUST00619,15,53.11,878.05,2.3,1.0,No,No,Enrolled,Basic,Low,Mailed Check,Month-to-Month,Northeast,Yes
+CUST00620,6,57.68,250.42,3.3,4.0,No,Yes,Not Enrolled,Premium,Medium,Electronic Check,Two Year,West,No
+CUST00621,27,95.55,2328.85,12.7,2.0,Yes,No,Enrolled,Basic,Medium,Electronic Check,Month-to-Month,Midwest,Yes
+CUST00622,15,97.47,1427.58,0.8,1.0,No,No,Enrolled,Standard,Low,Bank Transfer,One Year,Northeast,No
+CUST00623,7,68.5,465.04,,,No,,,,Low,,One Year,Southeast,No
+CUST00624,1,74.49,,4.4,3.0,Yes,No,Not Enrolled,Standard,Medium,Bank Transfer,Month-to-Month,Northeast,Yes
+CUST00625,18,71.63,1246.81,2.4,3.0,Yes,No,Enrolled,Standard,Medium,Credit Card,Month-to-Month,West,No
+CUST00626,31,94.48,2640.95,11.9,3.0,No,No,Enrolled,Standard,,Mailed Check,One Year,West,No
+CUST00627,9,40.69,451.95,19.3,2.0,Yes,Yes,Enrolled,Enterprise,Medium,Credit Card,Month-to-Month,Southwest,No
+CUST00628,19,40.34,815.43,6.2,1.0,No,Yes,Enrolled,Basic,Low,Mailed Check,Month-to-Month,Midwest,Yes
+CUST00629,29,78.77,2478.17,3.6,2.0,No,Yes,Enrolled,Standard,High,Mailed Check,Month-to-Month,Northeast,Yes
+CUST00630,11,37.63,446.78,3.8,0.0,No,No,Enrolled,Basic,Low,Electronic Check,Two Year,West,No
+CUST00631,20,38.46,777.21,42.4,0.0,No,No,Enrolled,Standard,Low,Credit Card,Two Year,Northeast,No
+CUST00632,24,44.48,1068.36,3.0,1.0,Yes,No,Enrolled,Standard,Medium,Bank Transfer,Month-to-Month,West,Yes
+CUST00633,11,29.96,,,,No,,,Standard,,Credit Card,One Year,West,No
+CUST00634,1,49.69,47.45,16.0,0.0,No,No,Not Enrolled,Premium,Medium,Credit Card,One Year,Southeast,No
+CUST00635,9,32.63,270.78,5.9,1.0,No,Yes,Not Enrolled,Standard,,Bank Transfer,Month-to-Month,Southwest,No
+CUST00636,12,51.1,577.92,3.3,1.0,No,No,Enrolled,Standard,,Credit Card,Month-to-Month,West,No
+CUST00637,39,117.99,4310.38,13.1,3.0,No,No,Enrolled,Enterprise,Medium,Credit Card,Two Year,Southwest,No
+CUST00638,36,67.35,2253.44,10.4,0.0,No,No,Enrolled,Standard,,Bank Transfer,Month-to-Month,Northeast,No
+CUST00639,3,75.77,286.5,13.3,2.0,No,No,Not Enrolled,Standard,,Bank Transfer,Two Year,Southwest,No
+CUST00640,32,88.89,2832.45,5.1,3.0,Yes,Yes,Not Enrolled,Premium,,Credit Card,One Year,Midwest,No
+CUST00641,3,54.86,226.14,2.9,3.0,Yes,No,Not Enrolled,Standard,,Electronic Check,Month-to-Month,West,Yes
+CUST00642,8,75.6,609.18,36.6,2.0,No,No,Enrolled,Standard,Medium,Electronic Check,One Year,Southwest,Yes
+CUST00643,5,101.99,520.29,,1.0,No,,Not Enrolled,,Low,,One Year,,Yes
+CUST00644,5,107.45,503.36,3.2,1.0,Yes,No,Enrolled,Enterprise,Low,Bank Transfer,Two Year,Midwest,No
+CUST00645,22,54.27,1228.28,2.4,2.0,No,No,Not Enrolled,Basic,,Electronic Check,Two Year,Southeast,No
+CUST00646,6,76.86,457.68,11.4,1.0,No,No,Not Enrolled,Standard,Low,Bank Transfer,Two Year,Northeast,No
+CUST00647,20,64.51,1184.52,,0.0,Yes,Yes,Enrolled,Premium,,Bank Transfer,Two Year,West,No
+CUST00648,24,48.25,,,,Yes,,,Premium,High,,Two Year,,No
+CUST00649,4,72.84,286.23,,0.0,No,Yes,Not Enrolled,Premium,Low,Bank Transfer,Month-to-Month,Southeast,Yes
+CUST00650,14,77.86,912.99,15.1,2.0,No,No,Enrolled,Premium,Low,Credit Card,Two Year,Southwest,No
+CUST00651,12,118.38,1341.01,26.1,2.0,No,No,Enrolled,Premium,,Electronic Check,Month-to-Month,West,Yes
+CUST00652,1,54.92,73.68,16.2,3.0,No,Yes,Not Enrolled,Premium,,Credit Card,Two Year,Midwest,No
+CUST00653,40,58.89,2327.71,6.9,0.0,No,No,Enrolled,Standard,Low,Credit Card,One Year,Southwest,No
+CUST00654,51,66.09,3243.75,5.6,1.0,No,No,Not Enrolled,Standard,,Credit Card,Two Year,Southwest,No
+CUST00655,6,85.18,434.65,9.3,1.0,No,Yes,Not Enrolled,Basic,Medium,Credit Card,Month-to-Month,Midwest,No
+CUST00656,2,46.02,73.88,26.5,0.0,No,Yes,Enrolled,Standard,Low,Credit Card,One Year,Northeast,Yes
+CUST00657,28,66.97,1726.04,,2.0,No,No,Not Enrolled,Standard,Medium,Credit Card,One Year,Southwest,No
+CUST00658,3,56.38,237.81,1.3,4.0,No,No,Enrolled,Standard,Medium,Bank Transfer,Month-to-Month,Midwest,Yes
+CUST00659,5,47.06,233.95,5.6,1.0,No,No,Enrolled,Premium,Medium,Credit Card,Two Year,Southwest,No
+CUST00660,32,112.37,3563.72,7.6,2.0,No,No,Not Enrolled,Premium,Low,Bank Transfer,One Year,West,No
+CUST00661,17,69.07,,,1.0,Yes,,Enrolled,,Medium,,One Year,,Yes
+CUST00662,20,73.8,1661.48,14.1,3.0,No,No,Not Enrolled,Standard,,Electronic Check,Two Year,Northeast,No
+CUST00663,32,68.57,2077.77,28.5,1.0,Yes,No,Enrolled,Premium,Low,Credit Card,Month-to-Month,Midwest,No
+CUST00664,29,119.85,3268.78,5.4,2.0,No,No,Not Enrolled,Premium,Medium,Electronic Check,One Year,Northeast,No
+CUST00665,22,71.81,1390.81,2.6,0.0,No,No,Enrolled,Enterprise,Low,Credit Card,Two Year,Southeast,No
+CUST00666,4,34.42,56.85,4.5,1.0,No,Yes,Enrolled,Basic,Low,Mailed Check,Month-to-Month,Southeast,No
+CUST00667,2,80.48,92.78,,2.0,No,No,Not Enrolled,Premium,Low,Credit Card,Month-to-Month,West,Yes
+CUST00668,6,107.58,584.08,8.6,2.0,Yes,No,Enrolled,Premium,,Electronic Check,Two Year,Northeast,No
+CUST00669,13,69.18,,,,No,Yes,,,Low,,One Year,,No
+CUST00670,71,87.4,6192.33,12.7,2.0,No,No,Not Enrolled,Premium,High,Mailed Check,Two Year,Midwest,No
+CUST00671,18,92.99,1504.82,2.4,2.0,Yes,No,Not Enrolled,Premium,Medium,Mailed Check,One Year,Midwest,No
+CUST00672,18,30.05,521.25,,,No,,,Standard,Low,,Two Year,,No
+CUST00673,11,75.96,915.5,48.9,4.0,No,No,Not Enrolled,Premium,Low,Credit Card,Two Year,Northeast,Yes
+CUST00674,29,68.66,2046.92,1.6,1.0,Yes,Yes,Not Enrolled,Standard,,Mailed Check,Two Year,Midwest,No
+CUST00675,15,115.65,1644.26,25.7,0.0,Yes,Yes,Enrolled,Enterprise,Medium,Credit Card,One Year,West,Yes
+CUST00676,34,20.0,701.3,19.5,2.0,No,No,Not Enrolled,Basic,Low,Credit Card,Month-to-Month,Southeast,No
+CUST00677,8,126.17,1002.51,2.1,1.0,Yes,No,Enrolled,Standard,Medium,Mailed Check,Month-to-Month,Northeast,Yes
+CUST00678,42,74.31,3089.32,5.9,0.0,No,No,Enrolled,Standard,Medium,Mailed Check,One Year,West,No
+CUST00679,18,70.87,1176.73,4.2,1.0,No,Yes,Enrolled,Standard,Medium,Bank Transfer,Month-to-Month,Northeast,Yes
+CUST00680,21,20.0,444.74,29.7,2.0,No,No,Enrolled,Basic,Low,Mailed Check,One Year,Midwest,Yes
+CUST00681,32,20.0,672.31,12.8,2.0,No,No,Not Enrolled,Basic,Medium,Bank Transfer,Month-to-Month,Northeast,No
+CUST00682,10,38.71,412.12,2.8,2.0,Yes,Yes,Enrolled,Standard,Low,Credit Card,Month-to-Month,Southeast,No
+CUST00683,4,44.4,253.98,4.2,2.0,No,Yes,Enrolled,Basic,Low,Credit Card,One Year,Midwest,Yes
+CUST00684,4,105.73,450.3,16.5,2.0,No,No,Enrolled,Premium,,Mailed Check,One Year,Southwest,Yes
+CUST00685,6,46.88,220.82,2.3,0.0,Yes,No,Enrolled,Standard,Low,,Month-to-Month,Northeast,No
+CUST00686,24,74.73,1553.9,14.6,0.0,No,No,Not Enrolled,Standard,Low,Credit Card,One Year,Southeast,No
+CUST00687,15,67.03,1071.9,8.5,1.0,No,Yes,Not Enrolled,Standard,,Credit Card,Month-to-Month,West,No
+CUST00688,1,33.85,0.0,8.0,1.0,No,No,Enrolled,Basic,,Mailed Check,Month-to-Month,Southeast,No
+CUST00689,26,25.1,650.23,1.2,2.0,No,No,Not Enrolled,Basic,Low,Bank Transfer,One Year,West,No
+CUST00690,14,78.67,1041.08,,0.0,No,,,Enterprise,Low,,One Year,,No
+CUST00691,39,71.23,2660.32,11.1,3.0,No,Yes,Not Enrolled,Premium,,Credit Card,Month-to-Month,Southeast,No
+CUST00692,14,41.56,609.86,11.3,1.0,No,No,Enrolled,Standard,,Electronic Check,Month-to-Month,Southeast,No
+CUST00693,10,85.34,882.89,2.0,0.0,No,No,Enrolled,Enterprise,,Credit Card,Month-to-Month,Northeast,Yes
+CUST00694,3,55.39,230.95,3.1,2.0,No,No,Enrolled,Standard,Low,Bank Transfer,Two Year,Northeast,Yes
+CUST00695,8,84.22,767.4,3.4,2.0,No,Yes,Enrolled,Standard,Low,Credit Card,Month-to-Month,Midwest,No
+CUST00696,20,59.97,1252.99,1.7,1.0,No,Yes,Enrolled,Standard,,Credit Card,Month-to-Month,Northeast,No
+CUST00697,4,78.33,251.34,2.2,2.0,No,No,Not Enrolled,Standard,Low,Credit Card,Month-to-Month,West,No
+CUST00698,27,48.15,1322.19,7.0,0.0,Yes,No,Enrolled,Standard,,Credit Card,Month-to-Month,Southwest,No
+CUST00699,9,92.82,871.55,9.8,1.0,No,Yes,Enrolled,Standard,High,Credit Card,One Year,Southwest,No
+CUST00700,9,57.79,529.11,,2.0,Yes,Yes,Enrolled,Standard,,Electronic Check,Two Year,West,No
+CUST00701,6,76.43,,,,Yes,No,,,,,Month-to-Month,Southwest,No
+CUST00702,15,61.6,941.86,3.4,1.0,No,No,Enrolled,,High,Credit Card,Two Year,West,No
+CUST00703,30,59.68,1653.14,,2.0,No,Yes,Enrolled,Enterprise,,Bank Transfer,Two Year,Southeast,No
+CUST00704,11,95.98,1121.16,34.1,2.0,No,Yes,Not Enrolled,Basic,Medium,Bank Transfer,One Year,Northeast,No
+CUST00705,18,48.55,893.21,,0.0,No,No,Enrolled,,,Credit Card,Month-to-Month,Midwest,Yes
+CUST00706,41,73.83,3357.19,4.2,2.0,Yes,Yes,Not Enrolled,Premium,,Bank Transfer,Month-to-Month,Southeast,No
+CUST00707,2,54.36,11.74,,2.0,No,No,Enrolled,Standard,,Credit Card,One Year,West,No
+CUST00708,51,87.78,4206.62,6.6,3.0,No,Yes,Not Enrolled,Enterprise,Low,Mailed Check,Month-to-Month,Southeast,No
+CUST00709,1,104.9,60.58,1.4,1.0,No,No,Not Enrolled,Enterprise,,Credit Card,One Year,West,No
+CUST00710,43,56.84,,,,No,,Enrolled,,,,Month-to-Month,,No
+CUST00711,31,100.79,2906.11,28.9,3.0,No,Yes,Enrolled,Premium,Low,Mailed Check,Month-to-Month,West,Yes
+CUST00712,65,40.43,2789.94,1.4,2.0,No,No,Enrolled,Basic,,Mailed Check,Month-to-Month,West,No
+CUST00713,30,41.91,1370.98,0.6,3.0,Yes,No,Not Enrolled,Standard,,Credit Card,Month-to-Month,West,No
+CUST00714,1,68.85,17.67,21.5,3.0,Yes,No,Enrolled,Standard,Medium,Credit Card,Two Year,Midwest,No
+CUST00715,9,75.72,810.07,7.7,1.0,No,Yes,Enrolled,Enterprise,Medium,Credit Card,One Year,Southeast,No
+CUST00716,1,80.01,,25.6,5.0,No,No,Enrolled,Enterprise,Low,Mailed Check,Two Year,Midwest,No
+CUST00717,7,53.03,444.71,7.6,4.0,No,No,Enrolled,Standard,High,Electronic Check,Two Year,Midwest,Yes
+CUST00718,27,54.02,1414.47,8.7,,No,No,Not Enrolled,Standard,Low,Credit Card,Month-to-Month,Southwest,Yes
+CUST00719,15,108.56,1776.34,6.0,1.0,No,Yes,Not Enrolled,Premium,,Electronic Check,Two Year,West,No
+CUST00720,21,75.23,1459.45,1.6,2.0,No,No,Not Enrolled,Premium,,Credit Card,Two Year,Midwest,No
+CUST00721,68,73.22,4920.8,13.2,1.0,No,Yes,Not Enrolled,Basic,Medium,Bank Transfer,One Year,West,No
+CUST00722,42,36.96,1667.53,16.6,3.0,No,No,Enrolled,Basic,,Credit Card,Month-to-Month,Midwest,No
+CUST00723,3,22.73,120.35,4.3,1.0,No,No,Enrolled,Basic,,Credit Card,One Year,Southwest,No
+CUST00724,8,22.68,235.9,8.7,1.0,Yes,No,Enrolled,Basic,VIP,Bank Transfer,Two Year,Northeast,No
+CUST00725,16,42.47,673.15,39.2,2.0,No,Yes,Enrolled,Premium,,Bank Transfer,Two Year,Southeast,No
+CUST00726,46,53.91,2540.23,3.2,0.0,No,Yes,Not Enrolled,Standard,,Credit Card,Month-to-Month,Southeast,No
+CUST00727,37,60.21,2195.38,6.7,0.0,No,No,Not Enrolled,Standard,Medium,Credit Card,One Year,Midwest,No
+CUST00728,2,59.69,152.97,2.4,0.0,No,No,Not Enrolled,Premium,VIP,Credit Card,One Year,Southeast,No
+CUST00729,6,74.19,406.78,1.0,3.0,No,No,Enrolled,Premium,,Mailed Check,Two Year,Southwest,No
+CUST00730,11,111.47,1240.29,1.8,1.0,No,No,Not Enrolled,Enterprise,,Credit Card,Month-to-Month,Southeast,No
+CUST00731,18,71.12,1259.8,6.5,2.0,No,No,Enrolled,Standard,,Electronic Check,Two Year,Midwest,No
+CUST00732,20,27.13,542.7,41.8,3.0,No,No,Not Enrolled,Basic,,,One Year,Northeast,No
+CUST00733,67,112.28,7501.86,7.5,2.0,Yes,Yes,Enrolled,Premium,,Bank Transfer,One Year,Southwest,No
+CUST00734,31,63.09,2023.13,13.7,3.0,Yes,Yes,Enrolled,Basic,,Credit Card,Month-to-Month,Southeast,No
+CUST00735,4,131.5,625.72,23.6,2.0,No,No,Not Enrolled,Enterprise,Low,Mailed Check,One Year,Northeast,No
+CUST00736,18,81.58,1599.87,16.6,2.0,No,No,Not Enrolled,Premium,Low,Electronic Check,Month-to-Month,Southwest,No
+CUST00737,34,60.23,2151.88,3.5,2.0,No,No,Enrolled,Enterprise,,Bank Transfer,One Year,West,No
+CUST00738,28,48.35,1213.99,3.1,,No,No,Enrolled,Enterprise,High,Bank Transfer,Two Year,Southeast,No
+CUST00739,39,65.22,2476.97,14.4,1.0,No,No,Enrolled,Standard,Low,Credit Card,Month-to-Month,Northeast,No
+CUST00740,6,119.5,696.85,15.4,1.0,No,No,Enrolled,Premium,Medium,Credit Card,Two Year,Southwest,No
+CUST00741,39,49.28,,,0.0,No,,Not Enrolled,,,,Month-to-Month,,No
+CUST00742,23,72.59,1530.79,14.1,0.0,Yes,No,Not Enrolled,Basic,,Mailed Check,Two Year,Southeast,No
+CUST00743,7,70.7,432.12,,,No,,Enrolled,,,,Month-to-Month,,No
+CUST00744,18,89.89,1753.62,2.1,0.0,No,Yes,Enrolled,Enterprise,High,Bank Transfer,Two Year,Southwest,No
+CUST00745,50,123.26,5814.69,1.7,0.0,No,,,,,,Month-to-Month,,No
+CUST00746,52,71.38,3322.62,10.7,1.0,No,No,Not Enrolled,Basic,Medium,Electronic Check,One Year,Northeast,No
+CUST00747,5,39.25,300.3,18.0,1.0,Yes,No,Not Enrolled,Basic,Medium,Credit Card,Month-to-Month,Northeast,No
+CUST00748,9,40.15,353.87,3.3,0.0,No,Yes,Not Enrolled,Standard,,Credit Card,One Year,Southwest,No
+CUST00749,6,52.17,396.25,12.0,2.0,No,No,Not Enrolled,Standard,Medium,Credit Card,One Year,Southeast,Yes
+CUST00750,23,97.35,2047.71,8.3,2.0,No,No,Enrolled,Premium,Low,Mailed Check,Month-to-Month,West,No
+CUST00751,10,20.0,184.91,4.6,5.0,No,No,Enrolled,Basic,,Bank Transfer,One Year,Southeast,Yes
+CUST00752,2,70.54,196.19,5.2,1.0,No,Yes,Not Enrolled,Standard,Low,,Month-to-Month,Southeast,No
+CUST00753,7,32.15,199.05,18.4,0.0,No,No,Enrolled,Premium,High,Bank Transfer,One Year,West,No
+CUST00754,4,48.46,129.83,,1.0,No,,,,,Electronic Check,Month-to-Month,,Yes
+CUST00755,10,82.84,767.05,16.4,1.0,Yes,Yes,Enrolled,Standard,High,Mailed Check,One Year,West,No
+CUST00756,23,104.57,2426.6,1.3,1.0,No,Yes,Enrolled,Standard,Low,Credit Card,Month-to-Month,Southwest,Yes
+CUST00757,4,61.36,246.21,16.2,0.0,No,No,Enrolled,Basic,Medium,Mailed Check,Month-to-Month,Southeast,Yes
+CUST00758,36,52.95,1833.42,30.1,0.0,Yes,Yes,Not Enrolled,Basic,,Mailed Check,Month-to-Month,Midwest,No
+CUST00759,4,55.07,160.43,2.7,3.0,No,No,Not Enrolled,Premium,,Credit Card,One Year,West,No
+CUST00760,50,66.23,2965.48,1.3,2.0,No,Yes,Enrolled,Premium,,Electronic Check,Two Year,Northeast,No
+CUST00761,18,76.67,1398.03,12.3,0.0,Yes,No,Not Enrolled,Premium,Medium,Credit Card,Two Year,Southwest,No
+CUST00762,18,33.42,559.9,11.4,1.0,No,No,Not Enrolled,Basic,Low,Bank Transfer,Month-to-Month,Southwest,Yes
+CUST00763,7,79.39,569.56,5.2,0.0,No,No,Enrolled,Basic,,Bank Transfer,Two Year,Southeast,No
+CUST00764,26,114.41,3123.94,5.4,3.0,Yes,Yes,Not Enrolled,,,Bank Transfer,Two Year,Northeast,No
+CUST00765,3,45.88,93.51,,1.0,No,,,,Low,,One Year,,No
+CUST00766,5,39.43,193.32,7.6,2.0,Yes,Yes,Enrolled,Basic,Low,Bank Transfer,Month-to-Month,Southwest,No
+CUST00767,18,80.0,1452.93,11.8,2.0,Yes,No,Not Enrolled,Premium,,Bank Transfer,Month-to-Month,Southeast,Yes
+CUST00768,8,70.16,687.06,7.1,3.0,Yes,No,Enrolled,Standard,,Electronic Check,Two Year,Northeast,No
+CUST00769,50,36.52,1836.93,,,No,Yes,Not Enrolled,,,,Two Year,,No
+CUST00770,18,76.04,1488.07,,2.0,No,No,Enrolled,Premium,Medium,Credit Card,Month-to-Month,Northeast,Yes
+CUST00771,4,54.88,184.44,8.0,1.0,No,No,Not Enrolled,Basic,Low,Bank Transfer,Two Year,West,No
+CUST00772,35,88.37,3031.88,8.5,1.0,Yes,Yes,Not Enrolled,Basic,Medium,Bank Transfer,Two Year,Midwest,No
+CUST00773,10,62.32,,9.8,,No,No,Enrolled,,,,Two Year,,No
+CUST00774,5,80.89,331.75,5.2,2.0,No,No,Enrolled,Premium,Low,Credit Card,One Year,West,No
+CUST00775,3,75.54,261.4,15.4,4.0,No,Yes,Enrolled,Enterprise,Low,Electronic Check,One Year,Southwest,No
+CUST00776,13,92.53,1184.87,5.3,0.0,No,No,Not Enrolled,Premium,Low,Credit Card,Month-to-Month,Southeast,No
+CUST00777,20,91.9,1734.38,4.9,1.0,No,No,Enrolled,Standard,Low,Electronic Check,Month-to-Month,Midwest,No
+CUST00778,11,20.0,312.66,2.3,1.0,No,No,Enrolled,Basic,Medium,Credit Card,Month-to-Month,West,No
+CUST00779,14,77.18,1021.83,7.2,0.0,No,,Not Enrolled,Premium,Low,Electronic Check,Month-to-Month,Southeast,No
+CUST00780,31,95.05,3038.55,23.6,1.0,No,No,Enrolled,,Low,Credit Card,Month-to-Month,Midwest,No
+CUST00781,15,131.73,2090.54,27.1,1.0,No,No,Not Enrolled,Basic,Low,Electronic Check,One Year,Southwest,No
+CUST00782,18,68.31,1309.07,4.8,3.0,No,No,Not Enrolled,Standard,Low,Credit Card,One Year,Southwest,Yes
+CUST00783,5,108.77,600.11,1.6,2.0,No,No,Not Enrolled,Premium,,Credit Card,Two Year,Southwest,Yes
+CUST00784,2,20.0,101.78,4.8,2.0,No,No,Enrolled,Basic,,Credit Card,Month-to-Month,Southeast,Yes
+CUST00785,3,95.78,323.6,10.3,1.0,No,No,Enrolled,Standard,,Bank Transfer,Two Year,Northeast,No
+CUST00786,1,37.27,140.87,18.6,0.0,Yes,No,Not Enrolled,Basic,VIP,Bank Transfer,Month-to-Month,Northeast,No
+CUST00787,4,93.33,271.51,20.1,2.0,No,No,Enrolled,Premium,High,Bank Transfer,Two Year,Northeast,No
+CUST00788,43,64.31,,,,Yes,,,Basic,High,,Two Year,,No
+CUST00789,13,92.84,1323.2,3.6,0.0,Yes,,Enrolled,,,Credit Card,Month-to-Month,Northeast,No
+CUST00790,24,68.58,,4.2,,No,,,,Low,,Month-to-Month,,No
+CUST00791,55,56.06,2838.19,4.2,0.0,No,Yes,Enrolled,Standard,High,Electronic Check,Two Year,Southwest,No
+CUST00792,31,138.22,4678.4,7.8,1.0,No,Yes,Enrolled,,Low,Electronic Check,One Year,Midwest,No
+CUST00793,2,58.54,215.37,10.1,0.0,No,,Enrolled,Basic,Low,Credit Card,Two Year,Southwest,Yes
+CUST00794,15,20.0,303.75,13.5,3.0,No,Yes,Enrolled,,Medium,Bank Transfer,Two Year,Southeast,No
+CUST00795,20,61.79,1144.78,4.7,0.0,No,Yes,Not Enrolled,Basic,,Electronic Check,Month-to-Month,Midwest,Yes
+CUST00796,52,62.16,3398.04,3.6,4.0,No,Yes,Not Enrolled,Basic,VIP,Electronic Check,Two Year,West,No
+CUST00797,46,44.76,2114.02,,0.0,No,Yes,Enrolled,Standard,,Credit Card,Two Year,Southwest,No
+CUST00798,4,35.94,169.91,,1.0,No,Yes,Not Enrolled,Basic,Medium,Bank Transfer,Month-to-Month,Southeast,No
+CUST00799,8,74.41,520.5,3.2,0.0,No,Yes,Not Enrolled,Standard,Medium,Mailed Check,Month-to-Month,Midwest,Yes
+CUST00800,18,53.34,991.62,5.3,3.0,No,No,Enrolled,Basic,Medium,Mailed Check,One Year,Midwest,No
+CUST00801,3,89.45,222.39,2.1,1.0,No,No,Enrolled,Basic,High,Bank Transfer,Month-to-Month,Northeast,Yes
+CUST00802,2,44.69,155.67,5.2,1.0,Yes,Yes,Enrolled,Standard,Low,Credit Card,Month-to-Month,West,No
+CUST00803,10,102.79,1156.87,11.6,1.0,No,No,Enrolled,Standard,,Electronic Check,One Year,Midwest,No
+CUST00804,4,58.27,219.51,5.3,0.0,No,Yes,Enrolled,Standard,Medium,Mailed Check,One Year,Northeast,Yes
+CUST00805,1,96.92,93.63,21.7,1.0,No,No,Enrolled,Premium,,Bank Transfer,One Year,Northeast,No
+CUST00806,6,91.26,472.55,10.6,1.0,Yes,No,Enrolled,Standard,Medium,Credit Card,Two Year,Southeast,No
+CUST00807,11,77.59,936.31,50.0,2.0,Yes,No,Not Enrolled,Standard,Low,Credit Card,One Year,Southwest,No
+CUST00808,12,60.68,677.96,12.9,3.0,No,No,Enrolled,Standard,Medium,Credit Card,Month-to-Month,West,No
+CUST00809,22,32.51,710.34,11.4,2.0,Yes,Yes,Not Enrolled,Basic,,Credit Card,Month-to-Month,Southeast,Yes
+CUST00810,7,58.09,481.45,5.1,2.0,No,Yes,Not Enrolled,Basic,Low,Credit Card,Two Year,Southeast,Yes
+CUST00811,27,70.52,1946.96,6.7,0.0,No,No,Not Enrolled,Basic,,Mailed Check,Two Year,Southeast,No
+CUST00812,14,73.28,986.48,24.7,4.0,No,No,Enrolled,Basic,Medium,Bank Transfer,Month-to-Month,West,No
+CUST00813,21,75.16,,,,No,Yes,,,,,Two Year,,No
+CUST00814,6,53.59,247.44,7.5,,Yes,No,Enrolled,,Medium,Mailed Check,Month-to-Month,Southwest,No
+CUST00815,4,32.57,97.07,4.1,2.0,Yes,No,Enrolled,Basic,Medium,Bank Transfer,Two Year,Midwest,No
+CUST00816,51,46.6,2459.34,2.9,0.0,No,No,Enrolled,Basic,Medium,Electronic Check,Month-to-Month,Midwest,No
+CUST00817,1,82.34,66.7,2.1,1.0,No,Yes,Enrolled,Enterprise,Medium,Electronic Check,One Year,Southeast,No
+CUST00818,21,86.56,1890.68,,0.0,No,,,,,,Two Year,,No
+CUST00819,11,65.88,818.7,32.3,0.0,No,Yes,Enrolled,Basic,Medium,Electronic Check,Two Year,Northeast,No
+CUST00820,6,109.61,702.18,13.2,3.0,No,No,Enrolled,Enterprise,Low,Bank Transfer,Two Year,Southwest,No
+CUST00821,1,69.27,,2.6,1.0,No,No,Not Enrolled,Basic,Low,Bank Transfer,Month-to-Month,Midwest,Yes
+CUST00822,10,114.57,1100.51,18.6,1.0,Yes,Yes,Enrolled,Enterprise,Medium,Credit Card,Two Year,Northeast,No
+CUST00823,5,94.51,,3.6,,No,,,,Low,Electronic Check,One Year,,No
+CUST00824,53,87.97,4242.86,19.3,2.0,Yes,No,Not Enrolled,Standard,,Electronic Check,Month-to-Month,West,No
+CUST00825,46,61.93,3069.08,2.2,0.0,No,No,Not Enrolled,Basic,,Credit Card,One Year,Northeast,Yes
+CUST00826,25,52.42,1166.5,22.4,2.0,No,No,Not Enrolled,Standard,Low,Bank Transfer,Month-to-Month,Midwest,No
+CUST00827,72,70.42,4730.55,2.6,0.0,No,Yes,Enrolled,Premium,Low,Credit Card,One Year,Midwest,No
+CUST00828,22,71.25,1481.27,10.0,1.0,No,No,Not Enrolled,Premium,Medium,Credit Card,Two Year,Midwest,No
+CUST00829,9,24.68,168.45,32.1,2.0,No,No,Not Enrolled,Standard,,Electronic Check,One Year,Southeast,No
+CUST00830,25,59.36,1370.17,2.9,,Yes,Yes,Enrolled,Basic,Medium,Bank Transfer,One Year,West,No
+CUST00831,32,34.99,1071.79,,0.0,No,Yes,Not Enrolled,Basic,Low,Credit Card,Two Year,Southwest,No
+CUST00832,30,50.45,1579.06,,1.0,No,No,Enrolled,Standard,,,One Year,Southwest,No
+CUST00833,2,54.36,130.27,8.6,2.0,No,Yes,Enrolled,Basic,Low,Credit Card,Two Year,Midwest,No
+CUST00834,19,79.0,1617.2,4.7,0.0,No,No,Not Enrolled,Premium,,Bank Transfer,Month-to-Month,Northeast,No
+CUST00835,26,58.8,1636.89,5.9,1.0,No,No,Enrolled,Basic,Low,,One Year,Northeast,No
+CUST00836,49,93.24,4466.19,6.3,4.0,No,No,Enrolled,Premium,Medium,Bank Transfer,Two Year,West,No
+CUST00837,55,77.71,4203.66,4.0,2.0,No,No,Enrolled,Premium,Medium,Credit Card,One Year,Southeast,No
+CUST00838,72,110.6,7878.4,10.0,2.0,No,Yes,Enrolled,Enterprise,,Bank Transfer,One Year,Southeast,No
+CUST00839,6,35.32,217.48,27.9,1.0,No,No,Not Enrolled,,,Bank Transfer,One Year,Northeast,Yes
+CUST00840,8,91.08,657.32,2.9,2.0,Yes,Yes,Enrolled,Basic,,Bank Transfer,Month-to-Month,Northeast,Yes
+CUST00841,5,27.0,135.61,9.7,1.0,No,No,Not Enrolled,Enterprise,Medium,Electronic Check,Month-to-Month,Northeast,Yes
+CUST00842,67,61.56,3993.24,17.4,2.0,Yes,No,Not Enrolled,Standard,High,Bank Transfer,One Year,Northeast,No
+CUST00843,4,50.38,,,1.0,No,,Enrolled,,,,Two Year,Midwest,No
+CUST00844,39,91.92,3646.19,1.8,3.0,No,No,Enrolled,Premium,Medium,Credit Card,Month-to-Month,West,No
+CUST00845,10,86.08,,4.2,,Yes,,Not Enrolled,Premium,Low,,Month-to-Month,,Yes
+CUST00846,42,30.79,,,1.0,No,No,,,Low,,One Year,,No
+CUST00847,7,20.0,200.95,16.7,0.0,Yes,No,Enrolled,Standard,Low,Credit Card,Month-to-Month,West,Yes
+CUST00848,5,57.22,286.55,1.6,1.0,No,Yes,Enrolled,Basic,,Credit Card,Month-to-Month,Midwest,No
+CUST00849,8,61.61,575.73,19.5,,No,Yes,Enrolled,Standard,,Bank Transfer,Month-to-Month,Southeast,No
+CUST00850,27,58.64,1526.72,22.3,2.0,No,Yes,Enrolled,Standard,,Bank Transfer,Month-to-Month,Southwest,No
+CUST00851,12,50.16,690.86,45.8,,No,No,Not Enrolled,Enterprise,Low,Bank Transfer,Month-to-Month,Southeast,No
+CUST00852,8,139.25,,,,No,No,Not Enrolled,,Medium,,Two Year,,No
+CUST00853,72,75.18,5244.04,15.1,3.0,No,Yes,Enrolled,Premium,Low,Credit Card,Two Year,Midwest,No
+CUST00854,12,69.9,799.47,13.6,1.0,Yes,Yes,Enrolled,Standard,Low,Credit Card,Two Year,West,No
+CUST00855,4,114.23,,,,No,No,,Enterprise,Low,Mailed Check,One Year,,No
+CUST00856,26,83.89,2304.14,5.7,2.0,No,No,Not Enrolled,Enterprise,High,Mailed Check,One Year,Northeast,Yes
+CUST00857,37,91.71,3296.29,2.0,2.0,No,No,Enrolled,Premium,,Electronic Check,Month-to-Month,West,No
+CUST00858,15,78.43,1282.02,13.1,0.0,Yes,No,Enrolled,Enterprise,,Credit Card,One Year,West,No
+CUST00859,4,55.32,249.54,5.2,2.0,Yes,Yes,Enrolled,Standard,,Credit Card,Two Year,Southeast,No
+CUST00860,50,20.0,1047.67,5.5,1.0,No,No,Enrolled,Basic,,Credit Card,Month-to-Month,West,No
+CUST00861,5,111.81,506.87,4.0,3.0,No,No,Enrolled,Enterprise,Low,Bank Transfer,Month-to-Month,Northeast,No
+CUST00862,19,93.17,1885.77,11.6,3.0,No,Yes,Enrolled,Standard,Medium,Electronic Check,Month-to-Month,West,No
+CUST00863,12,70.01,804.49,32.7,2.0,No,No,Enrolled,Enterprise,,Credit Card,Month-to-Month,Southeast,No
+CUST00864,9,116.19,1096.92,27.9,,Yes,No,Enrolled,Enterprise,Low,Bank Transfer,One Year,West,No
+CUST00865,24,83.28,1921.66,8.0,2.0,No,Yes,Not Enrolled,Standard,Medium,Bank Transfer,Month-to-Month,West,No
+CUST00866,8,87.21,726.97,10.2,4.0,No,No,Not Enrolled,Enterprise,Low,Credit Card,Two Year,West,No
+CUST00867,2,87.89,174.42,13.4,,No,No,Enrolled,,Low,Mailed Check,One Year,West,No
+CUST00868,2,129.02,334.75,,,No,No,,,Medium,,Two Year,,No
+CUST00869,34,57.86,2073.11,2.7,1.0,No,No,Enrolled,Standard,Medium,Electronic Check,One Year,Midwest,No
+CUST00870,2,83.57,158.36,15.3,0.0,No,No,Enrolled,Standard,Low,Electronic Check,Month-to-Month,Southwest,No
+CUST00871,3,94.47,321.59,3.0,2.0,Yes,No,Enrolled,Premium,Low,Bank Transfer,Month-to-Month,Southwest,Yes
+CUST00872,72,61.43,4554.07,9.9,1.0,No,No,Not Enrolled,Basic,,Bank Transfer,Month-to-Month,Southwest,No
+CUST00873,10,96.82,906.03,4.9,1.0,Yes,No,Enrolled,Standard,Low,Credit Card,Month-to-Month,Midwest,Yes
+CUST00874,47,117.53,5267.55,3.7,2.0,No,Yes,Enrolled,Enterprise,,Electronic Check,Month-to-Month,Southwest,No
+CUST00875,12,41.09,492.65,12.9,2.0,No,Yes,Not Enrolled,Basic,Medium,Electronic Check,Month-to-Month,Southwest,No
+CUST00876,8,59.29,514.19,4.6,1.0,No,Yes,Enrolled,Standard,Low,Bank Transfer,One Year,Midwest,Yes
+CUST00877,35,109.56,3637.23,6.8,1.0,Yes,No,Enrolled,Enterprise,Low,Mailed Check,Two Year,Southeast,No
+CUST00878,3,41.59,89.93,18.3,2.0,No,Yes,Not Enrolled,Premium,Low,Electronic Check,One Year,Midwest,No
+CUST00879,9,37.04,344.57,4.0,0.0,No,,Enrolled,Standard,Low,Credit Card,Month-to-Month,Southeast,Yes
+CUST00880,30,72.77,2441.24,9.8,1.0,Yes,No,Enrolled,Premium,,Bank Transfer,One Year,Midwest,Yes
+CUST00881,26,74.73,2151.75,16.5,2.0,No,No,Enrolled,Enterprise,,Mailed Check,One Year,West,No
+CUST00882,72,95.6,6589.26,7.1,1.0,No,No,Not Enrolled,Premium,VIP,,Month-to-Month,Midwest,Yes
+CUST00883,3,95.93,270.82,4.7,1.0,No,Yes,Enrolled,Premium,Low,,One Year,Midwest,No
+CUST00884,5,80.57,401.2,4.6,2.0,No,Yes,Enrolled,Premium,Medium,Mailed Check,Two Year,Midwest,No
+CUST00885,16,28.78,409.24,14.8,1.0,No,Yes,Enrolled,Basic,,Credit Card,Two Year,West,No
+CUST00886,34,49.92,1678.08,19.3,0.0,Yes,Yes,Enrolled,Standard,Low,Credit Card,Month-to-Month,Southeast,Yes
+CUST00887,2,50.03,100.02,3.2,1.0,No,No,Enrolled,,Medium,Mailed Check,Month-to-Month,Midwest,No
+CUST00888,11,100.84,1076.83,15.1,1.0,No,Yes,Enrolled,Premium,Medium,Mailed Check,Two Year,West,No
+CUST00889,68,46.08,3039.25,,2.0,No,Yes,Enrolled,Standard,High,Mailed Check,One Year,Southeast,No
+CUST00890,3,97.32,329.55,2.1,3.0,Yes,No,Not Enrolled,Standard,Low,Credit Card,Month-to-Month,West,Yes
+CUST00891,35,75.28,,,1.0,No,Yes,Enrolled,,Low,,One Year,,No
+CUST00892,8,70.66,587.78,5.3,0.0,No,No,Enrolled,Premium,Low,Bank Transfer,Two Year,Southeast,No
+CUST00893,19,40.1,671.19,5.8,1.0,Yes,No,Enrolled,Standard,,Electronic Check,Month-to-Month,Southeast,No
+CUST00894,37,90.65,3626.88,6.6,3.0,Yes,No,Not Enrolled,Enterprise,,Credit Card,Two Year,West,No
+CUST00895,9,107.58,1048.78,5.6,0.0,No,Yes,Not Enrolled,Premium,Low,Electronic Check,Month-to-Month,Midwest,No
+CUST00896,16,20.0,417.98,8.7,2.0,Yes,No,Not Enrolled,Basic,,Mailed Check,Month-to-Month,West,No
+CUST00897,13,52.75,848.42,4.2,2.0,No,No,Enrolled,Standard,,Electronic Check,Month-to-Month,Midwest,Yes
+CUST00898,57,88.87,5527.95,12.9,2.0,Yes,No,Enrolled,Enterprise,Medium,Bank Transfer,One Year,West,No
+CUST00899,8,111.86,837.1,3.2,0.0,No,No,Not Enrolled,Enterprise,Low,Credit Card,Two Year,Midwest,No
+CUST00900,3,97.55,306.99,3.5,7.0,Yes,No,Enrolled,Premium,Low,Electronic Check,One Year,West,Yes
+CUST00901,17,43.84,803.83,28.7,0.0,No,No,Enrolled,Basic,Low,Electronic Check,Month-to-Month,Southeast,Yes
+CUST00902,42,81.29,3276.35,,5.0,No,No,Enrolled,Enterprise,,Credit Card,Month-to-Month,Southeast,No
+CUST00903,35,81.1,2738.32,9.1,2.0,No,Yes,Enrolled,Premium,Medium,Mailed Check,Month-to-Month,Southeast,No
+CUST00904,17,63.26,991.9,5.5,0.0,No,No,Enrolled,Standard,,Credit Card,Two Year,Midwest,No
+CUST00905,4,94.94,349.69,19.3,0.0,No,No,Enrolled,Enterprise,Low,Credit Card,One Year,Midwest,Yes
+CUST00906,4,105.18,420.88,5.9,2.0,No,Yes,Not Enrolled,Premium,Medium,Bank Transfer,One Year,Southeast,Yes
+CUST00907,13,81.82,1161.24,14.3,2.0,Yes,No,Not Enrolled,Premium,High,Bank Transfer,One Year,West,No
+CUST00908,14,81.03,1133.13,25.7,,No,No,Enrolled,Premium,Low,Credit Card,Month-to-Month,West,No
+CUST00909,15,103.7,1383.13,7.7,2.0,No,Yes,Not Enrolled,Enterprise,Low,Bank Transfer,Month-to-Month,Midwest,No
+CUST00910,29,107.54,3014.14,6.7,1.0,No,No,Enrolled,Enterprise,Low,Bank Transfer,Month-to-Month,Southwest,No
+CUST00911,47,26.45,1315.04,3.2,0.0,No,No,Enrolled,Standard,High,Credit Card,One Year,West,No
+CUST00912,29,93.87,2631.82,5.7,2.0,No,No,Enrolled,Basic,,Mailed Check,Two Year,Midwest,No
+CUST00913,54,80.23,,,4.0,Yes,,,,VIP,Bank Transfer,Month-to-Month,,Yes
+CUST00914,15,37.95,643.08,28.3,1.0,No,No,Enrolled,Basic,High,Electronic Check,Two Year,Northeast,No
+CUST00915,15,84.16,1371.39,6.9,0.0,Yes,No,Enrolled,Premium,,Electronic Check,Two Year,Southeast,No
+CUST00916,61,86.27,4952.58,8.5,1.0,No,No,Not Enrolled,Premium,Medium,Mailed Check,Month-to-Month,West,No
+CUST00917,51,25.68,1279.77,,2.0,No,No,Not Enrolled,Basic,Medium,Electronic Check,Two Year,Northeast,No
+CUST00918,59,88.94,5640.54,34.9,2.0,Yes,Yes,Enrolled,Premium,Medium,Electronic Check,One Year,West,No
+CUST00919,1,78.24,0.0,5.8,1.0,No,No,Not Enrolled,Standard,Low,Electronic Check,Month-to-Month,Northeast,Yes
+CUST00920,25,72.54,1804.91,50.0,4.0,No,,Not Enrolled,Enterprise,Medium,Credit Card,Two Year,Southeast,No
+CUST00921,2,60.8,99.69,13.1,,Yes,No,Not Enrolled,Enterprise,,Bank Transfer,Two Year,Midwest,No
+CUST00922,42,99.98,4075.32,6.9,2.0,No,No,Enrolled,Enterprise,Medium,Bank Transfer,Month-to-Month,Northeast,No
+CUST00923,4,62.29,118.15,8.4,4.0,No,Yes,Enrolled,Standard,Low,Bank Transfer,Two Year,Northeast,No
+CUST00924,4,81.27,240.34,50.0,1.0,No,Yes,Enrolled,Standard,,Bank Transfer,Month-to-Month,Northeast,No
+CUST00925,9,68.45,654.68,44.4,3.0,No,Yes,Enrolled,Standard,,,Month-to-Month,Northeast,Yes
+CUST00926,2,88.41,154.19,3.1,3.0,Yes,Yes,Enrolled,Enterprise,Low,Mailed Check,Month-to-Month,Southwest,Yes
+CUST00927,57,52.88,2694.45,5.9,0.0,No,No,Enrolled,Standard,VIP,Electronic Check,Two Year,Southeast,No
+CUST00928,5,88.51,454.91,,2.0,Yes,Yes,Enrolled,Standard,Low,Bank Transfer,Month-to-Month,Southeast,No
+CUST00929,16,99.31,1504.39,4.1,0.0,Yes,No,Not Enrolled,Premium,Low,Credit Card,Month-to-Month,Southeast,No
+CUST00930,27,69.28,,10.5,3.0,No,,,,Low,,Two Year,,No
+CUST00931,42,41.2,1724.99,50.0,2.0,No,No,Enrolled,Premium,Low,Electronic Check,One Year,Northeast,No
+CUST00932,9,77.03,668.14,1.2,2.0,No,No,Not Enrolled,Standard,,Mailed Check,Month-to-Month,Southwest,No
+CUST00933,32,95.45,3207.41,8.2,3.0,No,Yes,Enrolled,Standard,,Bank Transfer,One Year,West,No
+CUST00934,49,68.31,,4.9,,No,,,Standard,VIP,Bank Transfer,Month-to-Month,,Yes
+CUST00935,17,32.56,600.38,19.2,0.0,No,No,Enrolled,Basic,Low,Mailed Check,Month-to-Month,Southeast,Yes
+CUST00936,60,110.32,6602.62,7.7,1.0,No,No,Enrolled,Enterprise,,Credit Card,Month-to-Month,Northeast,No
+CUST00937,22,62.15,1231.33,2.1,3.0,Yes,Yes,Enrolled,Enterprise,,Credit Card,Two Year,Southeast,No
+CUST00938,15,76.52,1120.98,1.9,0.0,No,Yes,Enrolled,Standard,High,Mailed Check,One Year,Northeast,No
+CUST00939,14,74.09,983.39,4.3,2.0,Yes,No,Not Enrolled,Standard,,Bank Transfer,Month-to-Month,West,No
+CUST00940,18,52.96,971.74,0.7,0.0,No,Yes,Enrolled,Standard,Medium,Credit Card,Month-to-Month,West,Yes
+CUST00941,56,100.68,5560.96,18.4,1.0,No,Yes,Not Enrolled,Premium,Low,Mailed Check,Month-to-Month,Southeast,No
+CUST00942,11,85.7,1076.56,4.3,1.0,No,No,Not Enrolled,Standard,Low,Electronic Check,Month-to-Month,Southwest,No
+CUST00943,21,60.47,1352.05,3.3,0.0,No,Yes,Not Enrolled,Basic,Low,Electronic Check,Month-to-Month,West,No
+CUST00944,3,90.44,316.33,15.4,1.0,No,No,Enrolled,Standard,Medium,Credit Card,One Year,Southeast,No
+CUST00945,18,45.22,953.07,7.5,1.0,Yes,No,Enrolled,Premium,Low,Credit Card,Two Year,Southeast,No
+CUST00946,18,104.82,1973.45,,3.0,Yes,Yes,Enrolled,Premium,Medium,Credit Card,Month-to-Month,Northeast,No
+CUST00947,1,55.87,,40.8,0.0,Yes,Yes,Not Enrolled,Premium,Low,Electronic Check,One Year,Southeast,Yes
+CUST00948,33,86.38,2789.03,9.3,3.0,Yes,No,Not Enrolled,Premium,Medium,Bank Transfer,One Year,Southeast,Yes
+CUST00949,35,28.24,1040.38,14.0,2.0,No,Yes,Enrolled,Standard,Low,Mailed Check,One Year,Southwest,No
+CUST00950,10,54.94,561.05,3.9,3.0,Yes,Yes,Enrolled,Enterprise,,Mailed Check,Month-to-Month,Southeast,No
+CUST00951,2,89.05,242.07,2.4,0.0,Yes,No,Enrolled,Premium,,Mailed Check,Two Year,Southwest,No
+CUST00952,33,82.51,,,,No,,Enrolled,Enterprise,High,,One Year,Midwest,No
+CUST00953,13,108.22,1412.07,5.7,2.0,No,No,Enrolled,Enterprise,,Mailed Check,Two Year,Northeast,No
+CUST00954,7,93.14,529.02,50.0,1.0,Yes,Yes,Not Enrolled,Standard,,Bank Transfer,One Year,Midwest,Yes
+CUST00955,2,34.08,65.43,1.1,0.0,Yes,No,Not Enrolled,Standard,Medium,Mailed Check,Month-to-Month,Southwest,Yes
+CUST00956,26,63.65,1763.59,6.9,2.0,No,No,Enrolled,Standard,Low,Bank Transfer,Two Year,West,No
+CUST00957,30,48.23,1517.35,2.0,1.0,Yes,Yes,Not Enrolled,Standard,,Mailed Check,Month-to-Month,Southeast,Yes
+CUST00958,14,68.73,1007.4,50.0,2.0,No,Yes,Enrolled,Standard,,Bank Transfer,Two Year,West,No
+CUST00959,11,74.14,900.67,5.6,3.0,No,No,Not Enrolled,Enterprise,Medium,Electronic Check,Month-to-Month,West,No
+CUST00960,22,39.34,844.77,13.0,4.0,No,No,Enrolled,Basic,,,One Year,West,No
+CUST00961,5,68.03,292.35,2.3,,No,No,Not Enrolled,Basic,,Credit Card,Month-to-Month,West,No
+CUST00962,6,76.91,445.24,5.2,3.0,No,Yes,Not Enrolled,Standard,Low,Bank Transfer,Two Year,Northeast,No
+CUST00963,3,68.63,172.01,50.0,2.0,Yes,No,Enrolled,Standard,,Credit Card,One Year,Northeast,Yes
+CUST00964,10,72.81,639.7,6.1,1.0,No,No,Enrolled,Premium,,Bank Transfer,Month-to-Month,Southeast,No
+CUST00965,12,41.15,575.47,31.4,3.0,No,No,Enrolled,Standard,Low,Electronic Check,One Year,Northeast,Yes
+CUST00966,13,65.63,884.98,14.5,3.0,No,No,Not Enrolled,Standard,Low,Electronic Check,Month-to-Month,Southeast,No
+CUST00967,23,81.55,1749.46,3.7,1.0,No,No,Enrolled,Standard,Medium,Credit Card,Month-to-Month,Southeast,No
+CUST00968,5,67.6,412.64,9.8,1.0,Yes,Yes,Not Enrolled,Basic,VIP,Credit Card,Month-to-Month,Midwest,Yes
+CUST00969,18,77.51,1497.16,0.6,3.0,No,No,Enrolled,Premium,Low,Mailed Check,One Year,Midwest,No
+CUST00970,16,121.55,1800.69,13.4,3.0,No,Yes,Enrolled,Premium,Medium,Bank Transfer,Month-to-Month,Midwest,No
+CUST00971,4,99.29,318.88,11.0,2.0,No,No,Not Enrolled,Enterprise,Low,Credit Card,One Year,Southwest,No
+CUST00972,41,75.32,3303.33,4.4,0.0,No,No,Enrolled,Premium,High,Mailed Check,Two Year,West,No
+CUST00973,5,32.73,180.37,8.0,1.0,No,No,Enrolled,Basic,Low,Credit Card,Two Year,Midwest,No
+CUST00974,19,53.72,1195.96,8.2,2.0,No,Yes,Not Enrolled,Basic,Medium,Bank Transfer,One Year,Southwest,Yes
+CUST00975,35,41.52,1504.51,18.5,0.0,Yes,Yes,Not Enrolled,Basic,Low,Bank Transfer,One Year,West,No
+CUST00976,22,59.02,1385.08,9.7,0.0,No,No,Enrolled,Standard,,Credit Card,One Year,Southwest,No
+CUST00977,1,72.79,,10.3,0.0,No,No,Not Enrolled,Enterprise,Medium,Credit Card,Month-to-Month,Northeast,No
+CUST00978,21,54.38,1119.44,2.7,2.0,No,No,Enrolled,Standard,Medium,Electronic Check,Two Year,Southeast,No
+CUST00979,17,79.99,1305.87,11.6,0.0,No,Yes,Enrolled,Standard,Low,Bank Transfer,Month-to-Month,Southeast,Yes
+CUST00980,51,93.63,5221.88,8.8,0.0,No,No,Not Enrolled,Standard,Medium,Electronic Check,Month-to-Month,Midwest,No
+CUST00981,41,82.17,3165.69,13.1,0.0,No,Yes,Enrolled,Standard,Medium,Electronic Check,Month-to-Month,West,No
+CUST00982,6,59.65,398.86,23.9,2.0,No,Yes,Not Enrolled,Premium,,Credit Card,One Year,Midwest,No
+CUST00983,13,91.71,,,2.0,No,,Not Enrolled,,Low,,One Year,,No
+CUST00984,42,56.07,2122.44,1.6,1.0,No,No,Enrolled,Standard,High,Electronic Check,Month-to-Month,Midwest,Yes
+CUST00985,1,80.5,64.74,15.3,2.0,No,Yes,Enrolled,Basic,,Bank Transfer,Month-to-Month,Northeast,No
+CUST00986,10,43.94,508.49,5.2,0.0,No,Yes,Not Enrolled,Basic,,Mailed Check,One Year,Southeast,No
+CUST00987,38,80.75,3168.86,3.6,0.0,No,No,Not Enrolled,Basic,Medium,Bank Transfer,Two Year,Southwest,No
+CUST00988,5,68.27,396.38,,1.0,No,Yes,Not Enrolled,Premium,,Credit Card,Month-to-Month,West,Yes
+CUST00989,13,90.43,1283.92,2.3,2.0,No,No,Enrolled,Enterprise,,Credit Card,One Year,Midwest,No
+CUST00990,4,69.7,280.23,,0.0,No,Yes,Not Enrolled,Standard,,Credit Card,Month-to-Month,West,Yes
+CUST00991,17,82.53,1563.41,2.4,2.0,No,No,Not Enrolled,Enterprise,Low,Electronic Check,Two Year,West,No
+CUST00992,2,34.91,117.46,47.1,2.0,No,No,Enrolled,Basic,Medium,Bank Transfer,One Year,West,No
+CUST00993,16,79.9,1435.33,13.1,1.0,No,No,Enrolled,Premium,Low,Bank Transfer,Month-to-Month,West,Yes
+CUST00994,26,88.98,2423.13,2.4,1.0,No,No,Not Enrolled,Basic,High,Credit Card,One Year,West,No
+CUST00995,11,52.32,481.97,11.0,3.0,No,No,Enrolled,Standard,Low,Bank Transfer,Month-to-Month,Northeast,No
+CUST00996,45,90.15,3766.68,4.2,3.0,No,Yes,Not Enrolled,Standard,,Mailed Check,Two Year,Midwest,No
+CUST00997,17,101.26,1729.41,5.2,3.0,No,Yes,Not Enrolled,Standard,Low,Credit Card,Two Year,Midwest,No
+CUST00998,6,112.83,677.95,22.7,4.0,Yes,No,Enrolled,Enterprise,Low,Credit Card,Month-to-Month,West,Yes
+CUST00999,22,96.76,2057.82,1.8,1.0,Yes,Yes,Not Enrolled,Premium,,Credit Card,One Year,Southwest,No
+CUST01000,7,47.54,368.34,3.9,1.0,No,No,Not Enrolled,Standard,,Credit Card,One Year,Northeast,No
